@@ -10,6 +10,6 @@ fnc ghost() {
   regenerate_self[parameters];
   generate_self[parameters];
   learn_ghost[parameters];
-  return 0;
   some_code_goes_here[];
+  return 0;
 }

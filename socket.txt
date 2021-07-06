@@ -2,5 +2,5 @@
 2. Connect to remote server
 3. Send some data
 4. Receive a reply
-n. Reverse, repeat ... mix layers ... custom logic ...
+
 

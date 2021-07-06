@@ -6,10 +6,10 @@ $ghost->take_ownership[folder];
 $ghost->buy_eternity[integer];
 $ghost->sell_eternity[integer];
 
-fnc ghost[param/n] {
+fnc ghost[parameters/n] {
   regenerate_self[parameters];
   generate_self[parameters];
-  learn_ghost[parameters];
+  learn_ghost[parameters/n];
   some_code_goes_here[parameters];
   return 0;
 }

@@ -1,0 +1,22 @@
+#-----------------------------------------------------------#
+#hightech - It's not a bug, it's a feature - @hightech - 0000
+#-----------------------------------------------------------#
+hightech@root:~$ su
+Password:
+root@root:/home/hightech# echo "0000" > root.txt
+root@root:/home/hightech# cat root.txt 
+0000
+root@root:/home/hightech# echo "root" > 0000
+root@root:/home/hightech# cat 0000 
+root
+root@root:/home/hightech# mkdir ghost
+root@root:/home/hightech# mv root.txt 0000 ghost/
+root@root:/home/hightech# ls ghost
+0000  root.txt
+root@root:/home/hightech# touch ghost/20251337
+root@root:/home/hightech# ls ghost
+0000  20251337  root.txt
+root@root:/home/hightech# exit
+exit
+hightech@root:~$ 
+#-----------------------------------------------------------#

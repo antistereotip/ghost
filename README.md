@@ -10,13 +10,13 @@
 - SOCIETY - Community Logic
 
 - LOGIC_GATES(NOR, XOR, NAND) - Key Map Logic
---- NOR (0011-0101=1000)
---- XOR (0011-0101=0110)
---- NAND (0011-0101=1110)
+- NOR (0011-0101=1000)
+- XOR (0011-0101=0110)
+- NAND (0011-0101=1110)
 
 - 4, 8, 12, 16, 20, 24, 28, 32 - Bit Map Logic
---- Folder 4 - One Nibble Value
---- Folder 8 - Two Nibbles Value
---- Folder 12 - Three Nibbles Value
---- Folder 32 - Eight Nibbles Value
+- Folder 4 - One Nibble Value
+- Folder 8 - Two Nibbles Value
+- Folder 12 - Three Nibbles Value
+- Folder 32 - Eight Nibbles Value
 

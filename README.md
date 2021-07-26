@@ -9,7 +9,7 @@
 - RUN - Execute Ghost Logic
 - SOCIETY - Community Logic
 
-- LOGIC_GATES(NOR, XOR, NAND) - Key Map Logic
+- Logic_Gates (NOR, XOR, NAND) - Key Map Logic
 - NOR (0011-0101=1000)
 - XOR (0011-0101=0110)
 - NAND (0011-0101=1110)

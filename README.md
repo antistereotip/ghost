@@ -20,3 +20,6 @@
 - Folder 12 - Three Nibbles Value
 - Folder 32 - Eight Nibbles Value
 
+TODO:
+- Functions to parse nibbles
+- Functions to generate combination of niblle and logic gate

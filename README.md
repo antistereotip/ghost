@@ -23,6 +23,7 @@
 TODO:
 - Functions to parse nibbles
 - Functions to generate combination of nibble and logic gate
+- ...
 
 Representation of binary:
 | Syntax               |   Description     |                       Details                         |

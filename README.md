@@ -25,8 +25,11 @@ TODO:
 - Functions to generate combination of nibble and logic gate
 
 Representation of binary:
-- 1	0	1	0	0	1	1	0	1	1  * (1 = +, 0 = -) (+ = have electric current, - = no electric current)
-- |	―	|	―	―	|	|	―	|	|  * (| = +, ― = -) (| = have electric current, ― = no electric current)
-- ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  * (☒ = +, ☐ = -) (☒ = have electric current, ☐ = no electric current)
-- y	n	y	n	n	y	y	n	y	y  * (y = +, n = -) (y = have electric current, n = no electric current)
+| Syntax               |   Description     |                       Details                         |
+| :---                 |      :----:       |                                                  ---: |
+| 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (+ = have electric current, - = no electric current)  |
+| |	―	|	―	―	|	|	―	|	|  |  (| = +, ― = -)   | (| = have electric current, ― = no electric current)  |
+| ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
+| y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
+
  

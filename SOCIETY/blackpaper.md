@@ -196,9 +196,6 @@ email: milutingavrilovic@gmail.com
 > Nije znanje znaje dati, već je znanje znanje dati
 
 ### C provides six operators for bit manipulation:
-
-| Symbol	| Operator                               | 
-----------------------------------------------------------
 - | &	        | bitwise AND                            |
 - | |	        | bitwise inclusive OR                   |
 - | ^	        | bitwise XOR (exclusive OR)             |

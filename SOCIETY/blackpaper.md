@@ -107,7 +107,7 @@ hello = "Hello world"
 print hello
 ```
 
-### Simple Python HTTP server:
+### Simple Python HTTP server (Work on port 8000):
 ```python
 python -m SimpleHTTPServer
 ```

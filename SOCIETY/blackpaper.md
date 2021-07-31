@@ -1,8 +1,8 @@
 ## RIP DANILO BOGDANOV
 
 ## Dev team:
--avalon (Danilo) - RIP 
--hightech (Milutin)
+- avalon (Danilo) - RIP 
+- hightech (Milutin)
 
 ## Intro
 

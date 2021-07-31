@@ -84,10 +84,11 @@ API. When the project develops, the use will be very simple:
 ### Development
 
 Development is based on fast methods, mostly ANSI C programming language. 
-Some parts are bash scripts and some logic will be written in LISP. 
-Ghost protocol does not use any databases. It is completely flat file oriented. 
-The ravine is divided into three parts or layers. The first layer is what 
-the user wants to do and call the protocol as a request. The second layer 
+Some parts are bash scripts and some logic will be written in LISP, and 
+maybe some code in Python. Ghost protocol does not use any databases. 
+It is completely flat file oriented. The ravine is divided into three 
+parts or layers. The first layer is what the user wants to do and call 
+the protocol as a request. The second layer 
 maps all request positions and moves the request to a dedicated container 
 located in the 'nix platform file system. The second layer is closed information. 
 The third layer is keyless delivery, but the recipient must also send a protocol 
@@ -98,6 +99,11 @@ to the system, because the user, by invoking the protocol request, grants
 privileges to the interlayers. The development platform is GNU / Linux. 
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
+
+```python
+hello = "Hello world"
+print hello
+```
 
 ### My Ghost Repo:
 

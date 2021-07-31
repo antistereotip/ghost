@@ -1,6 +1,6 @@
 ## RIP DANILO BOGDANOV
 
-<p align="left">
+<p align="left" style="width: 100%;">
   <img src="https://github.com/antistereotip/ghost/blob/main/rainbowline.gif" />
 </p>
 

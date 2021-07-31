@@ -58,6 +58,8 @@ just call it a codebook.
 - Telnet Access Feature
 - BBS and Gopher Feature
 - Socket I/O Feature
+- Interlayers (1.5, 2.5) Feature
+- Encrypted mail servise with self destruction messages
 
 ## Dev team:
 - avalon (Danilo) - RIP 

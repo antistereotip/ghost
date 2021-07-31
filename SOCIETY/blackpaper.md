@@ -13,7 +13,8 @@
 </p>
 
 ### Moto:
-> Creating knowledge sharing culture
+> Creating the knowledge sharing culture
+> Nije znanje znaje dati, već je znanje znaje dati
 
 ### Intro
 

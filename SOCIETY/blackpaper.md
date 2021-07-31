@@ -195,14 +195,16 @@ email: milutingavrilovic@gmail.com
 ### Serbian Moto:
 > Nije znanje znaje dati, već je znanje znanje dati
 
-### C provides six operators for bit manipulation.
-Symbol	Operator
-&	bitwise AND
-|	bitwise inclusive OR
-^	bitwise XOR (exclusive OR)
-<<	left shift
->>	right shift
-~	bitwise NOT (one's complement) (unary)
+### C provides six operators for bit manipulation:
+
+| Symbol	| Operator                               | 
+----------------------------------------------------------
+| &	        | bitwise AND                            |
+| |	        | bitwise inclusive OR                   |
+| ^	        | bitwise XOR (exclusive OR)             |
+| <<	        | left shift                             |
+| >>	        | right shift                            |
+| ~	        | bitwise NOT (one's complement) (unary) |
 
 
 

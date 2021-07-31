@@ -107,6 +107,11 @@ hello = "Hello world"
 print hello
 ```
 
+### Simple Python HTTP server:
+```python
+python -m SimpleHTTPServer
+```
+
 ### My Ghost Repo:
 
 - https://github.com/antistereotip/ghost

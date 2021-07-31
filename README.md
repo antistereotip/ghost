@@ -27,8 +27,8 @@
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
 
-## TODO:
-# Develop Functions and Procedures
+## Develop Functions and Procedures
+TODO:
 - Functions to parse nibbles
 - Functions to generate combination of nibble and logic gate
 - Functions for operations of bit

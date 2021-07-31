@@ -12,6 +12,9 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" />
 </p>
 
+### Moto:
+> Creating knowledge sharing culture
+
 ### Intro
 
 The ghost protocol serves to improve the security layers of the network. 

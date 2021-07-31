@@ -1,6 +1,8 @@
 RIP DANILO BOGDANOV (avalon)
 
 <p align="left">
+<img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif />
+<p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 <p>It's not a bug, its a feature</p>

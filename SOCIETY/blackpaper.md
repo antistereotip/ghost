@@ -1,4 +1,4 @@
-RIP DANILO BOGDANOV (avalon)
+- RIP DANILO BOGDANOV (avalon)
         
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />

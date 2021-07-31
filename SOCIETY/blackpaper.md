@@ -91,6 +91,7 @@ cryptography.
 - https://hackstory.net/Aposotols
 - https://www.shadowserver.org
 - https://en.m.wikipedia.org/wiki/Bitwise_operations_in_C
+- https://www.linkedin.com/company/eternity-foundation-npo
 - https://antistereotip.net
 - https://usk.rs/
 

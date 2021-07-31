@@ -12,7 +12,6 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" />
 </p>
 
-
 ## Intro
 
 The ghost protocol serves to improve the security layers of the network. 
@@ -128,6 +127,12 @@ cryptography.
 - https://www.linkedin.com/company/eternity-foundation-npo
 - https://antistereotip.net
 - https://usk.rs/
+
+## Logotip
+
+<p align="left">
+   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost.png" />
+</p>
 
 
 

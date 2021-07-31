@@ -53,6 +53,12 @@ privileges to the interlayers. The development platform is GNU / Linux.
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
 
+## Features
+- Hyperloop for transporting data through network (also Feture for Eternity)
+- Telnet Access Feature
+- BBS and Gopher Feature
+- Socket I/O Feature
+
 ## Dev team:
 - avalon (Danilo) - RIP 
 - hightech (Milutin)

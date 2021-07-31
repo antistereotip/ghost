@@ -8,6 +8,11 @@ RIP DANILO BOGDANOV (avalon)
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" />
+</p>
+
+
 ## Intro
 
 The ghost protocol serves to improve the security layers of the network. 

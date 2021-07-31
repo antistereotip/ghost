@@ -14,7 +14,6 @@
 
 ### Moto:
 > Creating the knowledge sharing culture
-> Nije znanje znaje dati, već je znanje znaje dati
 
 ### Intro
 
@@ -193,7 +192,8 @@ email: milutingavrilovic@gmail.com
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
-### Its all good ...
+### Serbian Moto:
+> Nije znanje znaje dati, već je znanje znaje dati
 
 
 

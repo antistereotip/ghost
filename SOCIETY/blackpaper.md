@@ -84,10 +84,10 @@ cryptography.
 
 ## Links
 
-https://hackstory.net/Aposotols
-https://www.shadowserver.org
-https://antistereotip.net
-https://usk.rs/
+- https://hackstory.net/Aposotols
+- https://www.shadowserver.org
+- https://antistereotip.net
+- https://usk.rs/
 
 
 

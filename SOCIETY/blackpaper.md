@@ -185,11 +185,11 @@ email: milutingavrilovic@gmail.com
 
 ##S Tabela
 
-| Languages |      FNC          |      Level                       |
+- | Languages |      FNC          |      Level                       |
 --------------------------------------------------------------------
-| ANSI C    | Functions         |      Low Level / high level      |
-| BASH      | Functions         |      Shell scripting             |
-| LISP      | Functions         |      Arrays / Low Level          |
+- | ANSI C    | Functions         |      Low Level / high level      |
+- | BASH      | Functions         |      Shell scripting             |
+- | LISP      | Functions         |      Arrays / Low Level          |
 
 
 <p align="left">

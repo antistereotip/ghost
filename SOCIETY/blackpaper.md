@@ -12,7 +12,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" />
 </p>
 
-## Intro
+### Intro
 
 The ghost protocol serves to improve the security layers of the network. 
 It is not based on basic encryption, but on options that go beyond silicon. 
@@ -23,7 +23,7 @@ way from point a to point b and that it is almost impossible to notice the
 content traveling through the network. This is some small introduction to 
 modern technology in the old school way.
 
-## Idea
+### Idea
 
 The idea is to map the data. Folders 4 to 32 contain nibbles. Let's say 
 folder 4 contains only 1 nibble and it is an aggregation of four bits. 
@@ -43,13 +43,13 @@ from being visible to anyone with any hardware. If the protocol happens to work 
 written, it will be the first invisible protocol in the history of the Internet and 
 will be a major step forward for all of humanity.
 
-## Logic Gates
+### Logic Gates
 
 - XNOR-Logic-Gate (0011 - 0101 = 1001)
 - NOR-Logic-Gate (0011 - 0101 = 1000)
 - NAND-Logic-Gate (0011 - 0101 = 1110)
 
-## Mission and Vision
+### Mission and Vision
 
 The mission and vision of the Ghost protocol is to penetrate the data transmission space. 
 The thought is that the user does not have a crypto key but has a mapped architecture and 
@@ -69,7 +69,7 @@ API. When the project develops, the use will be very simple:
 - play [counter / server / terrorist]; 
 - include ['path / to / api'];
 
-## Development
+### Development
 
 Development is based on fast methods, mostly ANSI C programming language. 
 Some parts are bash scripts and some logic will be written in LISP. 
@@ -87,11 +87,11 @@ privileges to the interlayers. The development platform is GNU / Linux.
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
 
-## My Ghost Repo:
+### My Ghost Repo:
 
 - https://github.com/antistereotip/ghost
 
-## Features
+### Features
 
 - Hyperloop for transporting data through network (also Feature for Eternity)
 - Telnet Access Feature
@@ -100,12 +100,12 @@ just call it a codebook.
 - Interlayers (1.5, 2.5) Feature
 - Encrypted mail servise with self destruction messages
 
-## Dev team:
+### Dev team:
 
 - avalon (Danilo) - RIP 
 - hightech (Milutin)
 
-## The use of
+### The use of
 
 We see the use of the ghost protocol as a widely used method of data transfer. 
 Ghost is still in the test phase and the reason why it has not yet been released 
@@ -116,7 +116,7 @@ have to set aside a certain amount of money for a protocol with support. If peop
 want to use it without support, it is completely open to use as open source. 
 The main use of the protocol is user privacy.
 
-## Ethic
+### Ethic
 
 The protocol requires great ethical predispositions. The project is completely 
 open source and anyone who wants to develop a project must be a proven whitehat 
@@ -125,7 +125,7 @@ that is aimed directly at the user and gives him complete privacy and freedom.
 Development will go in the direction of ethics and morals and a completely 
 avant-garde way of designing.
 
-## How to contribute ?
+### How to contribute ?
 
 Please send your contact information and github or bitbucket account to the 
 e-mail: milutingavrilovic@gmail.com and I will inform you as soon as possible 
@@ -134,7 +134,7 @@ team is a pure whitehat approach. Development Engineers should have a basic
 knowledge of low level programming as well as an elementary understanding of 
 cryptography.
 
-## Links
+### Links
 
 - https://hackstory.net/Aposotols
 - https://www.shadowserver.org
@@ -143,19 +143,19 @@ cryptography.
 - https://antistereotip.net
 - https://usk.rs/
 
-## Brief
+### Brief
 
 Brief overview of blackpaper. Efficiency and anaga lie in simplicity. Everything 
 should be clear because the document is more than full of details, and at the same 
 time it is basic.
 
-## Logotip
+### Logotip
 
 <p align="left">
    <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png" />
 </p>
 
-## Contact
+### Contact
 email: milutingavrilovic@gmail.com
 
 

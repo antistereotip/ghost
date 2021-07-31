@@ -143,17 +143,17 @@ cryptography.
 - https://antistereotip.net
 - https://usk.rs/
 
-## Logotip
-
-<p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png" />
-</p>
-
 ## Brief
 
 Brief overview of blackpaper. Efficiency and anaga lie in simplicity. Everything 
 should be clear because the document is more than full of details, and at the same 
 time it is basic.
+
+## Logotip
+
+<p align="left">
+   <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png" />
+</p>
 
 ## Contact
 email: milutingavrilovic@gmail.com

@@ -51,15 +51,10 @@ photocell that mimics a button. The mission is to restore freedom to the user.
 The vision is for the Ghost protocol to become a security platform that is impossible to break because it relies on photons and leptons. The level of protection is in quarks. The simple syntax is that each query is called only by a simple call through
 API. When the project develops, the use will be very simple:
 - run [game / param / param / param];
-or:
 - buy_eternity [2];
-or:
 - sell_eternity [1.5];
-or play a game:
-- play [counter / server / terrorist];
-Before each call you need to run the API GATES: 
+- play [counter / server / terrorist]; 
 - include ['path / to / api'];
-Kiss - Keep it simple stupid. This is all for now.
 
 ## Development
 

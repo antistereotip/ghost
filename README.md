@@ -48,14 +48,7 @@ TODO:
 | ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
 | y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
 
-## Graph
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+
 
 
  

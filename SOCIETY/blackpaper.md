@@ -69,6 +69,15 @@ API. When the project develops, the use will be very simple:
 - play [counter / server / terrorist]; 
 - include ['path / to / api'];
 
+### Our Way or Highway
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif" />
+</p>
+
+
+https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif
+
 ### Development
 
 Development is based on fast methods, mostly ANSI C programming language. 

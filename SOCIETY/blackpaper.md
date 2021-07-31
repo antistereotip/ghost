@@ -78,7 +78,7 @@ API. When the project develops, the use will be very simple:
 #### Choose Your pill
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/morfeus.gif" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/morfeus.png" />
 </p>
 
 ### Development

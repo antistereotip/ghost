@@ -35,6 +35,15 @@ from being visible to anyone with any hardware. If the protocol happens to work 
 written, it will be the first invisible protocol in the history of the Internet and 
 will be a major step forward for all of humanity.
 
+## Mission and Vision
+
+The mission and vision of the Ghost protocol is to penetrate the data transmission space. 
+The thought is that the user does not have a crypto key but has a mapped architecture and 
+is completely keyless. Only keys between end users that are not based on encryption, but
+on a mapped architecture that is impossible to break. The Hadamard logical gate will be 
+implemented in the near future. Data transmission will be done via light. 3.3 volt laser 
+photocell that mimics a button. The mission is to restore freedom to the user.
+
 ## Development
 
 Development is based on fast methods, mostly ANSI C programming language. 

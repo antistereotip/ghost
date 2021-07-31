@@ -1,4 +1,4 @@
-## RIP DANILO BOGDANOV
+# RIP DANILO BOGDANOV
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/rainbowline.gif" />

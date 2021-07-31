@@ -72,7 +72,7 @@ API. When the project develops, the use will be very simple:
 ### Our Way or Highway
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif"  width="300"/>
 </p>
 
 #### Choose Your pill
@@ -164,7 +164,7 @@ time it is basic. Seatbelts please.
 ### Logotip
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png"  width="300" />
 </p>
 
 ### Contact

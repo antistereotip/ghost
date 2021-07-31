@@ -131,7 +131,7 @@ cryptography.
 ## Logotip
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost.png" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost.png" height="100" />
 </p>
 
 

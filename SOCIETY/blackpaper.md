@@ -1,5 +1,9 @@
 ## RIP DANILO BOGDANOV
 
+<p align="center">
+  <img src="https://github.com/antistereotip/ghost/blob/main/rainbowline.gif" />
+</p>
+
 ## Dev team:
 - avalon (Danilo) - RIP 
 - hightech (Milutin)

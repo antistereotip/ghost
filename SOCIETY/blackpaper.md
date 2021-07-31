@@ -203,7 +203,11 @@ email: milutingavrilovic@gmail.com
 - | >>          | right shift                            |
 - | ~	        | bitwise NOT (one's complement) (unary) |
 
-
+### XOR
+  11001000  
+^ 10111000 
+  -------- 
+= 01110000
 
 
 

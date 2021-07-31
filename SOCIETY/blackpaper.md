@@ -193,7 +193,7 @@ email: milutingavrilovic@gmail.com
 </p>
 
 ### Serbian Moto:
-> Nije znanje znaje dati, već je znanje znaje dati
+> Nije znanje znaje dati, već je znanje znanje dati
 
 
 

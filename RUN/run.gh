@@ -1,4 +1,5 @@
 #---ghost language example---#
+include [LISP, C, BASH];
 
 #---make fnc for executing env---#
 fnc ghost[parameters/n] {

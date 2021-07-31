@@ -4,10 +4,6 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/rainbowline.gif" />
 </p>
 
-## Dev team:
-- avalon (Danilo) - RIP 
-- hightech (Milutin)
-
 ## Intro
 
 The ghost protocol serves to improve the security layers of the network. 
@@ -56,6 +52,10 @@ to the system, because the user, by invoking the protocol request, grants
 privileges to the interlayers. The development platform is GNU / Linux. 
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
+
+## Dev team:
+- avalon (Danilo) - RIP 
+- hightech (Milutin)
 
 ## The use of
 

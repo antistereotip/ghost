@@ -71,10 +71,14 @@ API. When the project develops, the use will be very simple:
 
 ### Our Way or Highway
 
-
-
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif" />
+</p>
+
+#### Choose Your pill
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/morfeus.gif" />
 </p>
 
 ### Development

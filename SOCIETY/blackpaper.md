@@ -1,9 +1,5 @@
 RIP DANILO BOGDANOV (avalon)
-
-<p align="left">
-<img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif />
-</p>
-          
+        
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>

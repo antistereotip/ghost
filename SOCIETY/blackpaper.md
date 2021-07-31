@@ -52,8 +52,11 @@ on a mapped architecture that is impossible to break. The Hadamard logical gate 
 implemented in the near future. Data transmission will be done via light. 3.3 volt laser 
 photocell that mimics a button. The mission is to restore freedom to the user.
 
-The vision is for the Ghost protocol to become a security platform that is impossible to break because it relies on photons and leptons. The level of protection is in quarks. The simple syntax is that each query is called only by a simple call through
+The vision is for the Ghost protocol to become a security platform that is impossible 
+to break because it relies on photons and leptons. The level of protection is in quarks. 
+The simple syntax is that each query is called only by a simple call through
 API. When the project develops, the use will be very simple:
+
 - run [game / param / param / param];
 - buy_eternity [2];
 - sell_eternity [1.5];

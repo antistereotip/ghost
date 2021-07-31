@@ -183,14 +183,6 @@ time it is basic. Seatbelts please.
 ### Contact
 email: milutingavrilovic@gmail.com
 
-##S Tabela
-
-- | Languages |      FNC          |      Level                       |
---------------------------------------------------------------------
-- | ANSI C    | Functions         |      Low Level / high level      |
-- | BASH      | Functions         |      Shell scripting             |
-- | LISP      | Functions         |      Arrays / Low Level          |
-
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />

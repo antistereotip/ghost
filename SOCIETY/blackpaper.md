@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
-<p>It's not a bug, it's a feature</p>
+<p>hightech: It's not a bug, it's a feature</p>
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>

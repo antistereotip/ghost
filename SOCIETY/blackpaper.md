@@ -1,5 +1,3 @@
-# https://hackstory.net/Aposotols
-
 ## RIP DANILO BOGDANOV
 
 ## Dev team:
@@ -74,6 +72,24 @@ ethical hacker. The idea behind the whole project is a fully distributed system
 that is aimed directly at the user and gives him complete privacy and freedom. 
 Development will go in the direction of ethics and morals and a completely 
 avant-garde way of designing.
+
+## How to contribute ?
+
+Please send your contact information and github or bitbucket account to the 
+e-mail: milutingavrilovic@gmail.com and I will inform you as soon as possible 
+how we need to develop the protocol. The only condition for the development 
+team is a pure whitehat approach. Development Engineers should have a basic 
+knowledge of low level programming as well as an elementary understanding of 
+cryptography.
+
+## Links
+
+https://hackstory.net/Aposotols
+https://www.shadowserver.org
+https://antistereotip.net
+https://usk.rs/
+
+
 
 
 

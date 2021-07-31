@@ -1,12 +1,12 @@
 # https://hackstory.net/Aposotols
 
-RIP DANILO BOGDANOV
+## RIP DANILO BOGDANOV
 
-Dev team:
+## Dev team:
 -avalon (Danilo) - RIP 
 -hightech (Milutin)
 
-Intro
+## Intro
 
 The ghost protocol serves to improve the security layers of the network. 
 It is not based on basic encryption, but on options that go beyond silicon. 
@@ -17,7 +17,7 @@ way from point a to point b and that it is almost impossible to notice the
 content traveling through the network. This is some small introduction to 
 modern technology in the old school way.
 
-Idea
+## Idea
 
 The idea is to map the data. Folders 4 to 32 contain nibbles. Let's say 
 folder 4 contains only 1 nibble and it is an aggregation of four bits. 
@@ -37,7 +37,7 @@ from being visible to anyone with any hardware. If the protocol happens to work 
 written, it will be the first invisible protocol in the history of the Internet and 
 will be a major step forward for all of humanity.
 
-Development
+## Development
 
 Development is based on fast methods, mostly ANSI C programming language. 
 Some parts are bash scripts and some logic will be written in LISP. 
@@ -55,7 +55,7 @@ privileges to the interlayers. The development platform is GNU / Linux.
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
 
-The use of
+## The use of
 
 We see the use of the ghost protocol as a widely used method of data transfer. 
 Ghost is still in the test phase and the reason why it has not yet been released 
@@ -66,7 +66,7 @@ have to set aside a certain amount of money for a protocol with support. If peop
 want to use it without support, it is completely open to use as open source. 
 The main use of the protocol is user privacy.
 
-Ethic
+## Ethic
 
 The protocol requires great ethical predispositions. The project is completely 
 open source and anyone who wants to develop a project must be a proven whitehat 

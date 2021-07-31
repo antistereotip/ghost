@@ -43,6 +43,12 @@ from being visible to anyone with any hardware. If the protocol happens to work 
 written, it will be the first invisible protocol in the history of the Internet and 
 will be a major step forward for all of humanity.
 
+## Logic Gates
+
+- XNOR-Logic-Gate (0011 - 0101 = 1001)
+- NOR-Logic-Gate (0011 - 0101 = 1000)
+- NAND-Logic-Gate (0011 - 0101 = 1110)
+
 ## Mission and Vision
 
 The mission and vision of the Ghost protocol is to penetrate the data transmission space. 
@@ -81,7 +87,12 @@ privileges to the interlayers. The development platform is GNU / Linux.
 Encryption is performed adapted to a method that is not widely used. Let's 
 just call it a codebook.
 
+## My Ghost Repo:
+
+- https://github.com/antistereotip/ghost
+
 ## Features
+
 - Hyperloop for transporting data through network (also Feature for Eternity)
 - Telnet Access Feature
 - BBS and Gopher Feature
@@ -90,6 +101,7 @@ just call it a codebook.
 - Encrypted mail servise with self destruction messages
 
 ## Dev team:
+
 - avalon (Danilo) - RIP 
 - hightech (Milutin)
 
@@ -145,6 +157,8 @@ time it is basic.
 
 ## Contact
 email: milutingavrilovic@gmail.com
+
+
 
 
 

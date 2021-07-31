@@ -200,7 +200,7 @@ email: milutingavrilovic@gmail.com
 - | |	        | bitwise inclusive OR                   |
 - | ^	        | bitwise XOR (exclusive OR)             |
 - | <<	        | left shift                             |
-- | <<          | right shift                            |
+- | >>          | right shift                            |
 - | ~	        | bitwise NOT (one's complement) (unary) |
 
 

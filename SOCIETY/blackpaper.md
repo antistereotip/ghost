@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
-<p>It's not a bug, its a feature</p>
+<p>It's not a bug, it's a feature</p>
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
@@ -139,6 +139,9 @@ cryptography.
 Brief overview of blackpaper. Efficiency and anaga lie in simplicity. Everything 
 should be clear because the document is more than full of details, and at the same 
 time it is basic.
+
+## Contact
+email: milutingavrilovic@gmail.com
 
 
 

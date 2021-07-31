@@ -136,7 +136,9 @@ cryptography.
 
 ## Brief
 
-Lets move forward
+Brief overview of blackpaper. Efficiency and anaga lie in simplicity. Everything 
+should be clear because the document is more than full of details, and at the same 
+time it is basic.
 
 
 

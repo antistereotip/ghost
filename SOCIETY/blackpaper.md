@@ -199,12 +199,12 @@ email: milutingavrilovic@gmail.com
 
 | Symbol	| Operator                               | 
 ----------------------------------------------------------
-| &	        | bitwise AND                            |
-| |	        | bitwise inclusive OR                   |
-| ^	        | bitwise XOR (exclusive OR)             |
-| <<	        | left shift                             |
-| >>	        | right shift                            |
-| ~	        | bitwise NOT (one's complement) (unary) |
+- | &	        | bitwise AND                            |
+- | |	        | bitwise inclusive OR                   |
+- | ^	        | bitwise XOR (exclusive OR)             |
+- | <<	        | left shift                             |
+- | <<          | right shift                            |
+- | ~	        | bitwise NOT (one's complement) (unary) |
 
 
 

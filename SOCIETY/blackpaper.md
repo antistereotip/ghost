@@ -146,7 +146,7 @@ cryptography.
 ## Logotip
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png" />
 </p>
 
 ## Brief

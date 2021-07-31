@@ -1,0 +1,4 @@
+#How to compile C program
+gcc [programName].c -o programName
+run:
+./programName

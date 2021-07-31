@@ -1,4 +1,10 @@
 #How to compile C program
+
+first insatall lib:
+sudo apt-get install build-essential
+
+compile:
 gcc [programName].c -o programName
+
 run:
 ./programName

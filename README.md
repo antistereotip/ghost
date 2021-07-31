@@ -5,13 +5,6 @@
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*
 
-## Representation of binary
-| Syntax               |   Description     |                       Details                         |
-| :---                 |      :----:       |                                                  ---: |
-| 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (+ = have electric current, - = no electric current)  |
-| ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
-| y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
-
 ## Ghost Documentation
 - RUN - Execute Ghost Logic
 - SOCIETY - Community Logic
@@ -47,6 +40,14 @@
 - Functions for TCP/IP logic
 - Functions for API logic
 - Functions for including API
+
+## Representation of binary
+| Syntax               |   Description     |                       Details                         |
+| :---                 |      :----:       |                                                  ---: |
+| 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (+ = have electric current, - = no electric current)  |
+| ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
+| y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
+
 
 
 

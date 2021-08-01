@@ -53,6 +53,13 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/c-logic-operaters.png"  width="300"/>
 </p>
 
+In mathematics and mathematical logic, Boolean algebra is the branch of algebra in which the values of 
+the variables are the truth values true and false, usually denoted 1 and 0, respectively.[1] Instead of 
+elementary algebra, where the values of the variables are numbers and the prime operations are addition and multiplication, the main operations of Boolean algebra are the conjunction (and) denoted as ∧, the disjunction (or) denoted as ∨, and the negation (not) denoted as ¬. It is thus a formalism for describing logical operations, in the same way that elementary algebra describes numerical operation.
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/boolean.png"  width="300"/>
+</p>
+
 
 
 

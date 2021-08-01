@@ -1,8 +1,8 @@
 ## Programming Socket
-- Create a socket
-- (1). Connect to remote server
-- (2). Send some data
-- (3). Receive a reply
+- Create a socket (0).
+- Connect to remote server (1).
+- Send some data (2).
+- Receive a reply (3).
 
 - 1.5. Ghost store data in jail
 - 2.5. Ghost set path and share data with privilegies and key

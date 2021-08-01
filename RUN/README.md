@@ -35,20 +35,24 @@ It can be understandably said that this phenomenon is a matter of shyness of the
     <th>Technology</th>
     <th>Description</th>
     <th>Details</th>
+    <th>Nibble</th>
   </tr>
   <tr>
     <td>ANSI C</td>
     <td>Procedural FNC</td>
     <td>Fast and Furious</td>
+    <th>0000</th>
   </tr>
   <tr>
     <td>LISP</td>
     <td>Arrays Logic</td>
     <td>Artificial Intelligence</td>
+    <th>1001</th>
   </tr>
   <tr>
     <td>BASH</td>
     <td>ENV Scripting</td>
     <td>BOFH Excuses</td>
+    <th>0001</th>
   </tr>
 </table>

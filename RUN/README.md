@@ -20,17 +20,17 @@
   </tr>
   <tr>
     <td>ANSI C</td>
+    <td>Procedural fnc</td>
+    <td>Fast and Furious</td>
+  </tr>
+  <tr>
     <td>LISP</td>
+    <td>Arrays Logic</td>
+    <td>artifical inteligence</td>
+  </tr>
+  <tr>
     <td>BASH</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>ENV Scripting</td>
+    <td>BOFH Excuses</td>
   </tr>
 </table>

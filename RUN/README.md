@@ -21,13 +21,13 @@
   </tr>
   <tr>
     <td>ANSI C</td>
-    <td>Procedural fnc</td>
+    <td>Procedural FNC</td>
     <td>Fast and Furious</td>
   </tr>
   <tr>
     <td>LISP</td>
     <td>Arrays Logic</td>
-    <td>artifical inteligence</td>
+    <td>Artificial Intelligence</td>
   </tr>
   <tr>
     <td>BASH</td>

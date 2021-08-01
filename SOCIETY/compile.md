@@ -1,17 +1,17 @@
 ## How to compile C program
 
-- first install lib:
+- Install lib:
 ```python
 sudo apt-get install build-essential
 ```
 
-- compile:
+- Compile:
 ```python
 gcc [programName].c -o programName
 ```
 
 
-- run:
+- Run:
 ```python
 ./programName
 ```

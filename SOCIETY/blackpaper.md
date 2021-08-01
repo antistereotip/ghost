@@ -78,7 +78,7 @@ API. When the project develops, the use will be very simple:
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/matrix.gif"  width="300"/>
 </p>
 
-#### Choose Your pill
+#### Choose Your Pill
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/morfeus.png"  width="300"/>
@@ -110,7 +110,7 @@ hello = "Hello world"
 print hello
 ```
 
-### Simple Python HTTP server (Work on port 8000):
+### Simple Python HTTP Server (Work on port 8000):
 ```python
 python -m SimpleHTTPServer
 ```
@@ -128,12 +128,12 @@ python -m SimpleHTTPServer
 - Interlayers (1.5, 2.5) Feature
 - Encrypted mail service with self destruction messages
 
-### Dev team:
+### Dev Team:
 
 - avalon (Danilo) - RIP 
 - hightech (Milutin)
 
-### The use of
+### The use Of
 
 We see the use of the ghost protocol as a widely used method of data transfer. 
 Ghost is still in the test phase and the reason why it has not yet been released 
@@ -153,7 +153,7 @@ that is aimed directly at the user and gives him complete privacy and freedom.
 Development will go in the direction of ethics and morals and a completely 
 avant-garde way of designing.
 
-### How to contribute ?
+### How to Contribute ?
 
 Please send your contact information and github or bitbucket account to the 
 e-mail: milutingavrilovic@gmail.com and I will inform you as soon as possible 

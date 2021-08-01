@@ -1,7 +1,3 @@
-#BOFH Excuses
+#!/bin/bash
 
-1.
-telnet bofh.jeffballard.us 666
-
-2.
 curl -s http://pages.cs.wisc.edu/~ballard/bofh/bofhserver.pl |grep 'is:' |awk 'BEGIN { FS=">"; } { print $10; }'

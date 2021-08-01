@@ -1,15 +1,15 @@
 ## Technologies
-- ANSI C
-- LISP
-- BASH
-- GHOST LNG
+- ANSI C (.c)
+- LISP (.lisp)
+- BASH (.sh)
+- GHOST LNG (.gh)
 
 ## Development
-- Abstract
-- Hyper
-- Out of box
-- Out of logic
-- Quantum bit
+- Abstract (Matrix)
+- Hyper (Speed)
+- Out of box (Diferent thinking)
+- Out of logic (Unlogical- Quantum)
+- Quantum bit (Qbit)
 
 ## Quantum Logic
 

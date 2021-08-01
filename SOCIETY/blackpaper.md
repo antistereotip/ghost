@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" width="300" />
 </p>
 
 ### Moto:

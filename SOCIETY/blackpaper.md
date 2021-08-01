@@ -115,7 +115,10 @@ variables are numbers and the prime operations are addition and multiplication, 
 main operations of Boolean algebra are the conjunction (and) denoted as ∧, the 
 disjunction (or) denoted as ∨, and the negation (not) denoted as ¬. It is thus a 
 formalism for describing logical operations, in the same way that elementary algebra 
-describes numerical operation
+describes numerical operation.
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/boolean.png"  width="300"/>
+</p>
 
 ### Simple Python Script:
 

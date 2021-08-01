@@ -15,6 +15,9 @@
 ### Moto:
 > Creating the knowledge sharing culture
 
+### Serbian Moto:
+> Nije znanje znaje dati, već je znanje znanje dati
+
 ### Intro
 
 The ghost protocol serves to improve the security layers of the network. 
@@ -193,8 +196,7 @@ email: milutingavrilovic@gmail.com
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
-### Serbian Moto:
-> Nije znanje znaje dati, već je znanje znanje dati
+
 
 
 

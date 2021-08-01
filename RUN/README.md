@@ -11,6 +11,7 @@
 - Out of logic
 - Quantum bit
 
+## Table of Proof
 
 <table>
   <tr>

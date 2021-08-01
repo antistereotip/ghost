@@ -49,12 +49,12 @@ TODO:
 | y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
 
 ### C provides six operators for bit manipulation: 
-- | &	 | bitwise AND                            |
-- | |	 | bitwise inclusive OR                   |
-- | ^	 | bitwise XOR (exclusive OR)             |
-- | <<	| left shift                             |
-- | >> | right shift                            |
-- | ~	 | bitwise NOT (one's complement) (unary) |
+- | &	     | bitwise AND                            |
+- | |	     | bitwise inclusive OR                   |
+- | ^	     | bitwise XOR (exclusive OR)             |
+- | <<	    | left shift                             |
+- | >>     | right shift                            |
+- | ~	     | bitwise NOT (one's complement) (unary) |
 
 
 

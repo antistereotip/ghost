@@ -14,14 +14,14 @@
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Technology</th>
+    <th>Description</th>
+    <th>Details</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>ANSI C</td>
+    <td>LISP</td>
+    <td>BASH</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
@@ -32,20 +32,5 @@
     <td>Ernst Handel</td>
     <td>Roland Mendel</td>
     <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
   </tr>
 </table>

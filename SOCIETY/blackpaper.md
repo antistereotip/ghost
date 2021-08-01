@@ -119,7 +119,7 @@ python -m SimpleHTTPServer
 ```
 - Running this script will list all the files on the locale on port 8000
 
-### My Ghost Repo:
+### Ghost Repo:
 
 - https://github.com/antistereotip/ghost
 

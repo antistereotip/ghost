@@ -69,11 +69,11 @@ to break because it relies on photons and leptons. The level of protection is in
 The simple syntax is that each query is called only by a simple call through
 API. When the project develops, the use will be very simple:
 
-1. run [game / param / param / param];
-2. buy_eternity [2];
-3. sell_eternity [1.5];
-4. play [counter / server / terrorist]; 
-5. include ['path / to / api'];
+- run [game / param / param / param];
+- buy_eternity [2];
+- sell_eternity [1.5];
+- play [counter / server / terrorist]; 
+- include ['path / to / api'];
 
 ### Our Way or Highway
 

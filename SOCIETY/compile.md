@@ -1,6 +1,6 @@
 ## How to compile C program
 
-- first insatall lib:
+- first install lib:
 ```python
 sudo apt-get install build-essential
 ```

@@ -21,8 +21,7 @@
 ### Intro
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif
-" width="300" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />
 </p>
 
 The ghost protocol serves to improve the security layers of the network. 

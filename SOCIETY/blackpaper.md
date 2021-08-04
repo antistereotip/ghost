@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" width="300" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />
 </p>
 
 ### Moto:
@@ -17,10 +17,6 @@
 
 ### Serbian Moto:
 > Nije znanje znaje dati, već je znanje znanje dati
-
-<p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />
-</p>
 
 ### Intro
 
@@ -58,6 +54,10 @@ will be a major step forward for all of humanity.
 - XNOR-Logic-Gate (0011 - 0101 = 1001)
 - NOR-Logic-Gate (0011 - 0101 = 1000)
 - NAND-Logic-Gate (0011 - 0101 = 1110)
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" width="300" />
+</p>
 
 ### Mission and Vision
 

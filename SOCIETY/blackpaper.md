@@ -20,6 +20,11 @@
 
 ### Intro
 
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif
+" width="300" />
+</p>
+
 The ghost protocol serves to improve the security layers of the network. 
 It is not based on basic encryption, but on options that go beyond silicon. 
 Ghost is quite close to hardware and can therefore be considered a low 

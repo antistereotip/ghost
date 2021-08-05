@@ -1,10 +1,14 @@
+## RIP DANILO BOGDANOV 
+
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
-
-## RIP DANILO BOGDANOV 
        
 > hightech: It's not a bug, it's a feature
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
+</p>
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />

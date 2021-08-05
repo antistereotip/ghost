@@ -10,4 +10,9 @@ Touch the future.
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
 
-___puzzle
+### puzzle
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/cicada-3301.gif" width="300" />
+</p>
+

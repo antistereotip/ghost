@@ -207,6 +207,10 @@ time it is basic. Seatbelts please.
    <img src="https://github.com/antistereotip/ghost/blob/main/ghost-icon.png"  width="300" />
 </p>
 
+<p align="left">
+   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/cute-ghost.gif"  width="300" />
+</p>
+
 
 ### Contact
 email: milutingavrilovic@gmail.com

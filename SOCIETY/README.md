@@ -9,3 +9,5 @@ Touch the future.
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
+
+___puzzle

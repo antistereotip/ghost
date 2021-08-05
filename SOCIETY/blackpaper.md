@@ -58,7 +58,7 @@ will be a major step forward for all of humanity.
 - NAND-Logic-Gate (0011 - 0101 = 1110)
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" width="300" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/tenor.gif" width="350" />
 </p>
 
 ### Mission and Vision

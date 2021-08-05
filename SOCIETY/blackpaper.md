@@ -135,7 +135,7 @@ print hello
 ```python
 python -m SimpleHTTPServer
 ```
-- Running this script will serve all the files on the locale on port 8000
+- Running this script will serve all the files on the local on port 8000
 
 ### Ghost Repo:
 

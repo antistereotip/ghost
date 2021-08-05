@@ -208,7 +208,7 @@ time it is basic. Seatbelts please.
 </p>
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/cute-ghost.gif"  width="200" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/funny-ghost.gif"  width="200" />
 </p>
 
 

@@ -7,5 +7,5 @@ Touch the future.
 ## What we do ?
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>

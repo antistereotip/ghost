@@ -1,6 +1,6 @@
-## Zero Team - Final Detachment
+## Zero Squad - Final Detachment.
 
-### Zero Detachment.
+### Zero Squad.
 
 *Only 4 nibbles can be core of Zero Team.*
 

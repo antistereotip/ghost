@@ -27,5 +27,6 @@
 - https://www.codeproject.com/Articles/586000/Networking-and-Socket-Programming-Tutorial-in-C
 - https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/
 - https://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html
+- https://tutorialspoint.dev/language/cpp/socket-programming-cc
 
 ### Down to the rabbit hole

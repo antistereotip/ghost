@@ -49,7 +49,7 @@
 
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
 - Identity must not be compromised.
-- Please use VPN and TOR, and best solution is Tails OS. Or just Customize Your Debian :)
+- Please use VPN and TOR, and best solution is Tails OS. Or just Customize Your Debian.
 - https://www.debian.org/
 - https://www.torproject.org/download/
 - https://protonmail.com/

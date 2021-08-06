@@ -11,6 +11,9 @@
 - 1001 is shell interface (shell nibble) - Priority - 2
 - 0110 is also shell interface (shell nibble) - Priority - 2
 
+- Comandline interface for executing by priority:
+- 0 -> 1 -> 2, 2
+
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />
 </p>

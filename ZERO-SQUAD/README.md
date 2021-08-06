@@ -54,6 +54,7 @@
 - https://protonmail.com/
 - https://protonvpn.com/
 - https://tails.boum.org/install/index.en.html
+- https://www.kali.org/
 
 ### Down The Rabbit Hole
 

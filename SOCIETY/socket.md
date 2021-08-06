@@ -30,3 +30,7 @@
 - https://tutorialspoint.dev/language/cpp/socket-programming-cc
 
 ### Down to the rabbit hole
+
+<p>
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
+</p>

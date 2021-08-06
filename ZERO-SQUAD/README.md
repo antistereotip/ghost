@@ -29,6 +29,7 @@
 - https://www.torproject.org/download/
 - https://protonmail.com/
 - https://protonvpn.com/
+- https://tails.boum.org/install/index.en.html
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />

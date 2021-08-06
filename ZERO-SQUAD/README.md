@@ -18,10 +18,11 @@
 
 ## Zero Detachment Documentation
 
-- 0000
+- 0000 [hightech]
 - 1111
 - 1001
 - 0110
+- Because of anonimity Zero Squad members are not listed in this four nibbles. Only member is head od Squad hightech [0000].
 
 ### Down The Rabbit Hole
 

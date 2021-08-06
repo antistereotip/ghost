@@ -57,7 +57,7 @@
 - https://tails.boum.org/install/index.en.html
 - https://www.kali.org/
 
-### Down The Rabbit Hole
+### Down The Rabbit Hole ...
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />

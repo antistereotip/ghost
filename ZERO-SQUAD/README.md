@@ -19,9 +19,9 @@
 ## Zero Detachment Documentation
 
 - 0000 [hightech]
-- 1111 [anonymous]
-- 1001 [anonymous]
-- 0110 [anonymous]
+- 1111 [kgb]
+- 1001 [b52]
+- 0110 [m]
 
 ### Down The Rabbit Hole
 

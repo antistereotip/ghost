@@ -30,7 +30,7 @@
 - https://protonvpn.com/
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />
 </p>
 
 

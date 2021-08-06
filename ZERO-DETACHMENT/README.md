@@ -4,6 +4,8 @@
 
 *Only 4 nibbles can be core of Zero Team.*
 
+- The Zero Squad is the ultimate squad to deal with the dark internet. The dark layers of the internet carry with them a lot of malice and the task of the zero detachment is to integrate into the deepest layers of the internet. Zero Squad is an elite whitehat unit established with the goal of fighting the dark side of the network. We cooperate with several whitehat organizations and those organizations will remain anonymous for the efficiency of cooperation. If you want to become a member of the Zero Squad, you need to use encrypted services in combination with the ghost protocol.
+
 - 0000 is comand line interface (master nibble) - Priority - 0
 - 1111 is second line interface (sec line nibble) - Priority - 1
 - 1001 is shell interface (shell nibble) - Priority - 2

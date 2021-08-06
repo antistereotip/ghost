@@ -59,7 +59,8 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
 
-- Ghost prikazan na webu biće u okvirima engine up-a: https://github.com/antistereotip/ng1np
+- Please contribute to this project
+- Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
 
 

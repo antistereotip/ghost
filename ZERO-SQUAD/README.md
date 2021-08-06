@@ -45,7 +45,7 @@
 - nnnn [execute]
 
 
-### Down The Rabbit Hole
+### Tools:
 
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
 - Identity must not be compromised.
@@ -54,6 +54,8 @@
 - https://protonmail.com/
 - https://protonvpn.com/
 - https://tails.boum.org/install/index.en.html
+
+### Down The Rabbit Hole
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />

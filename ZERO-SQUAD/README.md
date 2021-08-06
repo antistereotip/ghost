@@ -35,6 +35,15 @@
 - 0010
 - 1101
 
+## Continue execute members logic:
+
+- 0002
+- 0003
+- 0004
+- 0005
+- 0006
+- nnnn
+
 
 ### Down The Rabbit Hole
 

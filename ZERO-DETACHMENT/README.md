@@ -1,5 +1,7 @@
 ## Zero Team - Final Detachment
-*Zero Detachment.* 
+
+### Zero Detachment.
+
 *Only 4 nibbles can be core of Zero Team.*
 
 <p align="left">

@@ -55,14 +55,15 @@ TODO:
 
 ### Cicada 3301
 
-- Please solve the infinitive puzzle ... Down the rabbit hole ...
-
-<p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
-</p>
+- Please solve the infinitive puzzle.
+- Down the rabbit hole.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
+</p>
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
 </p>
 
 ### Development

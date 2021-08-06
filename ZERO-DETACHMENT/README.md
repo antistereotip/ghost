@@ -1,6 +1,6 @@
 ## Zero Team - Final Detachment
-*Zero Detachment* 
-*Only 4 nibbles can be core of Zero Team*
+*Zero Detachment.* 
+*Only 4 nibbles can be core of Zero Team.*
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />

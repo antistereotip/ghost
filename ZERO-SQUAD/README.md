@@ -18,31 +18,31 @@
 
 ## Zero Detachment first 16 members in chain of command:
 
-- 0000 
-- 1111 
-- 1001 
-- 0110 
-- 0001
-- 0011
-- 0111
-- 1110
-- 1100
-- 1000
-- 1010
-- 0101
-- 1011
-- 0100
-- 0010
-- 1101
+- 0000 [core]
+- 1111 [core]
+- 1001 [shell]
+- 0110 [shell]
+- 0001 [environment]
+- 0011 [environment]
+- 0111 [environment]
+- 1110 [environment]
+- 1100 [environment]
+- 1000 [environment]
+- 1010 [environment]
+- 0101 [environment]
+- 1011 [environment]
+- 0100 [environment]
+- 0010 [environment]
+- 1101 [environment]
 
 ## Continue execute members logic:
 
-- 0002
-- 0003
-- 0004
-- 0005
-- 0006
-- nnnn
+- 0002 [execute]
+- 0003 [execute]
+- 0004 [execute]
+- 0005 [execute]
+- 0006 [execute]
+- nnnn [execute]
 
 
 ### Down The Rabbit Hole

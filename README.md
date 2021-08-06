@@ -59,7 +59,10 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
 
-- Please contribute to this project
+### Development
+
+-Development have 2 segments: Socket and Web
+- Please contribute to this project and go deep into Socket Programming
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
 

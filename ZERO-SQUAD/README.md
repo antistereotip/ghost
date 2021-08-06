@@ -25,9 +25,9 @@
 
 ### Down The Rabbit Hole
 
-- Please use VPN and TOR, and best solution is Tails OS. 
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
 - Identity must not be compromised.
+- Please use VPN and TOR, and best solution is Tails OS. 
 - https://www.torproject.org/download/
 - https://protonmail.com/
 - https://protonvpn.com/

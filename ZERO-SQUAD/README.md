@@ -16,12 +16,25 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />
 </p>
 
-## Zero Detachment Documentation
+## Zero Detachment first 16 members in chain of command:
 
-- 0000 [hightech]
-- 1111 [kgb]
-- 1001 [b52]
-- 0110 [m]
+- 0000 
+- 1111 
+- 1001 
+- 0110 
+- 0001
+- 0011
+- 0111
+- 1110
+- 1100
+- 1000
+- 1010
+- 0101
+- 1011
+- 0100
+- 0010
+- 1101
+
 
 ### Down The Rabbit Hole
 

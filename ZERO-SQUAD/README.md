@@ -136,7 +136,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
 </p>
 
-<div align="center"><center><table BORDER="1" CELLSPACING="1" CELLPADDING="0">
+<table BORDER="1" CELLSPACING="1" CELLPADDING="0">
       <tr>
         <td WIDTH="60"><b>Decimal</b> </td>
         <td WIDTH="85"><b>Hexadecimal</b> </td>
@@ -223,7 +223,7 @@
         <td WIDTH="61">1111 </td>
       </tr>
     </table>
-    </center></div>
+    
 
 *Tools lookup brief.*
 

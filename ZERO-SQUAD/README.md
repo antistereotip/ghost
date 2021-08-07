@@ -50,6 +50,7 @@
 - Y - Have Electricity
 - N - No Electricity
 - 0000 IS EXPLICITE [N] NO ELECTRICITY. ALL SHUTED DOWN.
+- 1111 IS EXPLICITE [Y] HAVE ELECTRICITY. ALL OPENED.
 
 ## Zero Detachment first 16 members in chain of command:
 

@@ -36,6 +36,8 @@
 
 - Conclusion. Super quantum computers could break every possible secret in the world in a short time (all TOP SECRET tags would become public - PUBLIC) because any asymmetric but also symmetric algorithm would be broken in a very short time and all tags under the veil of secrecy would be revealed. . That would be a great advance for humanity. FULLSTOP.
 
+*Command brief.*
+
 ## Command chain:
 
 - 0000 is comand line interface (master- core) - Priority - [0] - First member - NULL MEMBER.
@@ -82,6 +84,8 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
 </p>
 
+*How to use software brief lookup.*
+
 ## Tools:
 
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
@@ -109,6 +113,8 @@
 - What is Fast or Not?
 - The one who dies with the most Toys wins.
 - In the woods he goes home looking?
+
+*Almost The end.*
 
 ## Thats All Folks
 ### Kingest Regards. 0000 [hightech]. Admin.

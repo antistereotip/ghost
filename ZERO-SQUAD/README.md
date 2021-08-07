@@ -14,9 +14,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
-<p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/0-team.png" width="300" />
-</p>
+### ZERO SQUAD - DECRYPT ALL.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />

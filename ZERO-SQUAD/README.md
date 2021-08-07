@@ -26,6 +26,8 @@
 
 - For decryption of all encrypted data we need quantum computer power. We will use theory of Maxwell Demon. Let's take the example of coffee with two colors of sand, yellow sand and gray sand. We will take a spatula and mix the sand. The moment we stir the sand, there is no reversible process to get it all back the way it was. Now we will return to Maxwell's demon and see how it is possible to defy irreversibility, ie how we can report a reversible process (at least theoretically). This theory tells us, if true, that quantum physics has the power of reversibility, which could solve the decryption of the most complex cryptographic algorithms. So, we still have a bowl with a partition in the middle and a small door that divides that bowl into two parts. We said that we have faster and slower particles and that we have a demon on the side that observes and assigns values and moves the particles from one side to the other and vice versa. We want to create a reversible process.. 
 
+*Picture of Maxwell Demon.*
+
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/maxwell_demon.png" width="300" />
 </p>

@@ -72,7 +72,11 @@
 - 0006 [execute]
 - nnnn [execute]
 
-## Funny Bit and Byte Gif
+## Funny Bit, Nibble and Byte
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
+</p>
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />

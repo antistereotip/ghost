@@ -44,6 +44,8 @@
 
 ## Command chain:
 
+*This is very low level logic. Please look on details.*
+
 - 0000 is comand line interface (master- core) - Priority - [0] - First member - NULL MEMBER.
 - 1111 is second line interface (second line - core) - Priority - [1] - Last member  - FULL MEMBER.
 - 1001 is shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
@@ -56,6 +58,8 @@
 - [ Y N ] IS COMBINATION OF HAVE AND NO ELECTRICITY. ITS VARIABLE SET.
 
 ## Zero Detachment first 16 members in chain of command:
+
+*Logic of jumping to Line prioroty.*
 
 - 0000 [core - first in chain - N] - Start with 0 electricity (Line 1)
 - 1111 [core - last in chain - Y] - End with 1 Electricity (Line 2) (Go To: Line 1)
@@ -75,6 +79,8 @@
 - 1101 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
 
 ## Continue execute members logic:
+
+*Execute Logic jump to Line prioroty in higher level.*
 
 - 0002 [execute - Y N] - Combining Electricity with Hexa Values (Go To: Line 4)
 - 0003 [execute - Y N] - Combining Electricity with Hexa Values (Go To: Line 4)
@@ -111,6 +117,8 @@
 - https://en.wikipedia.org/wiki/Qubit
 
 ## Down The Rabbit Hole ...
+
+*Wake up Neo.*
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />

@@ -14,7 +14,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
-### ZERO SQUAD - DECRYPT ALL.
+### ZERO SQUAD - DECRYPT ALL ENCRYPTED DATA.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />

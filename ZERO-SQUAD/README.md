@@ -37,7 +37,7 @@
 
 - Conclusion. Super quantum computers could break every possible secret in the world in a short time (all TOP SECRET tags would become public - PUBLIC) because any asymmetric but also symmetric algorithm would be broken in a very short time and all tags under the veil of secrecy would be revealed. . That would be a great advance for humanity. FULLSTOP.
 
-### Command chain:
+## Command chain:
 
 - 0000 is comand line interface (master- core) - Priority - [0] - First member - NULL MEMBER.
 - 1111 is second line interface (second line - core) - Priority - [1] - Last member.
@@ -75,7 +75,7 @@
 - nnnn [execute]
 
 
-### Tools:
+## Tools:
 
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
 - Identity must not be compromised.
@@ -87,7 +87,7 @@
 - https://tails.boum.org/install/index.en.html
 - https://www.kali.org/
 
-### Down The Rabbit Hole ...
+## Down The Rabbit Hole ...
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />

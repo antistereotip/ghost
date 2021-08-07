@@ -54,6 +54,7 @@
 - 1111 is second line interface (second line - core) - Priority - [1] - Last member  - FULL MEMBER.
 - 1001 is shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
 - 0110 is also shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
+- This four nibbles are the same in mirror. Thats frame of hierarchy.
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :
 - Y - Have Electricity
 - N - No Electricity

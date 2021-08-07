@@ -102,9 +102,13 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />
 </p>
 
+- Hide the Tree in the Forest.
+- What is Fast or Rabbit?
+- What is Fast or Not?
+- The one who dies with the most Toys wins.
+
 ## Thats All Folks
 
-- Hide the Tree in the Forest.
 - Kingest Regards. 0000 [hightech]. Admin.
 
 

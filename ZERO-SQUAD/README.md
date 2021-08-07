@@ -39,9 +39,9 @@
 ## Command chain:
 
 - 0000 is comand line interface (master- core) - Priority - [0] - First member - NULL MEMBER.
-- 1111 is second line interface (second line - core) - Priority - [1] - Last member.
-- 1001 is shell interface (under priority - shell) - Priority - [2]
-- 0110 is also shell interface (under priority - shell) - Priority - [2]
+- 1111 is second line interface (second line - core) - Priority - [1] - Last member  - FULL MEMBER.
+- 1001 is shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
+- 0110 is also shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :
 
 

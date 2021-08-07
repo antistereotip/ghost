@@ -86,7 +86,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
 </p>
 
-*How to use software brief lookup.*
+*Tools lookup brief.*
 
 ## Tools:
 

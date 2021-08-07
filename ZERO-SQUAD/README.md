@@ -130,7 +130,8 @@
 
 *hexadecimal scheme combined with logic gates.*
 
-- By combining nibbles and hexadecimal notation with logical gates we get multidimensionality. 
+- By combining nibbles and hexadecimal notation with logical gates we get multidimensionality.
+- We put all result into array and store unique ID, and making modular matrices. 
 - This is necessary when transferring data through interlayers.
 - Additional protection is provided by interference, which is caused by voltage variations.
 - https://github.com/antistereotip/ghost/tree/main/GATES

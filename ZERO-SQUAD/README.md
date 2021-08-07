@@ -65,22 +65,22 @@
 
 *Logic of jumping to Line prioroty.*
 
-- 0000 [core - first in chain - N] - Start with 0 electricity (Line 1)
-- 1111 [core - last in chain - Y] - End with 1 Electricity (Line 2) (Go To: Line 1)
-- 1001 [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
-- 0110 [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
-- 0001 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 0011 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 0111 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1110 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1100 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1000 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1010 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 0101 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1011 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 0100 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 0010 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
-- 1101 [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0000 - 0 - [core - first in chain - N] - Start with 0 electricity (Line 1)
+- 1111 - F - [core - last in chain - Y] - End with 1 Electricity (Line 2) (Go To: Line 1)
+- 1001 - 9 - [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
+- 0110 - 6 - [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
+- 0001 - 1 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0011 - 3 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0111 - 7 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1110 - E - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1100 - C - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1000 - 8 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1010 - A - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0101 - 5 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1011 - B - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0100 - 4 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 0010 - 2 - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
+- 1101 - D - [environment - Y N] - Combining Electricity (Line 4) (Go To: Line 3)
 
 ## Continue execute members logic:
 

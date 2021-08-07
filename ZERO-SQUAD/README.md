@@ -1,6 +1,6 @@
 ## Zero Squad - Final Detachment. 0 Team.
 
-### Zero Squad. Qbit Team. Executive Team for Decrypting Network.
+### Zero Detachment. Qbit Team. Executive Team for Decrypting Network.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />

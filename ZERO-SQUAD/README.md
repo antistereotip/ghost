@@ -86,6 +86,7 @@
 - https://tails.boum.org/install/index.en.html
 - https://www.kali.org/
 - https://www.geeksforgeeks.org/making-linux-shell-c/
+- https://en.wikipedia.org/wiki/Qubit
 
 ## Down The Rabbit Hole ...
 

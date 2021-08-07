@@ -93,13 +93,13 @@
 - The logic of integration into the dark side of the network requires encrypted tunnels and strong encryption. 
 - Identity must not be compromised.
 - Please use VPN and TOR, and best solution is Tails OS. Or just Customize Your Debian.
-- https://www.debian.org/
-- https://www.torproject.org/download/
-- https://protonmail.com/
-- https://protonvpn.com/
+- https://www.debian.org
+- https://www.torproject.org/download
+- https://protonmail.com
+- https://protonvpn.com
 - https://tails.boum.org/install/index.en.html
-- https://www.kali.org/
-- https://www.geeksforgeeks.org/making-linux-shell-c/
+- https://www.kali.org
+- https://www.geeksforgeeks.org/making-linux-shell-c
 - https://en.wikipedia.org/wiki/Qubit
 
 ## Down The Rabbit Hole ...

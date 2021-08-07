@@ -90,6 +90,14 @@
 - 0006 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
 - nnnn [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
 
+## Keys for 4 nibble core members:
+
+*Four keys for combining with 4 core nibbles.*
+
+- 0011000000aaaa0000000000000000ccc00000000000000000ffff1111000010010000
+- ffff000000110000000aaaa000000000000ccc00000000000000001111000001101111
+
+
 ## Keys for 16 nibble members:
 
 *Four keys for combining with nibbles.*
@@ -108,7 +116,7 @@
 - 0011000000aaaa000bbb0000000000ccc00bbb000000000000ffff0000
 - 0011000000aaaa000bbb0000000000ccc00000000000000bbbffff0000
 
-## Universal keyfor all 1111 members of 0 Team:
+## Universal key for all 1111 members of 0 Team:
 
 *Key for combining with 1111 members.*
 

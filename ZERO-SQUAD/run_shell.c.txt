@@ -1,3 +1,6 @@
+Install lib:
+sudo apt-get install libreadline-dev
+
 To Run the code: 
 gcc shell.c -lreadline
 ./a.out 

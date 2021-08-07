@@ -126,6 +126,14 @@
 
 - 0011000000aaaa000bbb0000000000ccc00000000000000000ffff000011110000111101010011110010010110
 
+## Logic Gates
+
+*hexadecimal scheme combined with logic gates.*
+
+- By combining nibbles and hexadecimal notation with logical gates we get multidimensionality. 
+- This is necessary when transferring data through interlayers.
+- https://github.com/antistereotip/ghost/tree/main/GATES
+
 ## Funny Bit, Nibble and Byte
 
 <p align="left">

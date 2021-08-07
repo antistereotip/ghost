@@ -94,6 +94,8 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />
 </p>
 
+## Thats All Folks
+
 - Kingest Regards. 0000 [hightech]. Admin.
 
 

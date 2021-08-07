@@ -26,8 +26,8 @@
 
 ### Command chain:
 
-- 0000 is comand line interface (master- core) - Priority - [0]
-- 1111 is second line interface (second line - core) - Priority - [1]
+- 0000 is comand line interface (master- core) - Priority - [0] - First member 
+- 1111 is second line interface (second line - core) - Priority - [1] - Last member
 - 1001 is shell interface (under priority - shell) - Priority - [2]
 - 0110 is also shell interface (under priority - shell) - Priority - [2]
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :

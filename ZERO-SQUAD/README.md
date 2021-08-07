@@ -86,6 +86,7 @@
 - https://protonvpn.com/
 - https://tails.boum.org/install/index.en.html
 - https://www.kali.org/
+- https://www.geeksforgeeks.org/making-linux-shell-c/
 
 ## Down The Rabbit Hole ...
 

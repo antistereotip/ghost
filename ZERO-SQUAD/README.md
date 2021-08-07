@@ -49,7 +49,7 @@
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :
 - Y - Have Electricity
 - N - No Electricity
-- 0000 IS EXPLICITE NO ELECTRICITY. ALL SHUTED DOWN.
+- 0000 IS EXPLICITE [N] NO ELECTRICITY. ALL SHUTED DOWN.
 
 ## Zero Detachment first 16 members in chain of command:
 

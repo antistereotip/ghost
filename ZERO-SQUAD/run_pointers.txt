@@ -1,0 +1,2 @@
+gcc pointers.c -o pointers
+./pointers

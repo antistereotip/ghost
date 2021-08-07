@@ -44,14 +44,6 @@
 - 0110 is also shell interface (under priority - shell) - Priority - [2] - Shell member - MIDDLE MEMBER.
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :
 
-## Funny Bit and Byte Gif
-
-<p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
-</p>
-
-
-
 ## Zero Detachment first 16 members in chain of command:
 
 - 0000 [core - first in chain - N]
@@ -80,6 +72,11 @@
 - 0006 [execute]
 - nnnn [execute]
 
+## Funny Bit and Byte Gif
+
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
+</p>
 
 ## Tools:
 

@@ -132,6 +132,7 @@
 
 - By combining nibbles and hexadecimal notation with logical gates we get multidimensionality. 
 - This is necessary when transferring data through interlayers.
+- Additional protection is provided by interference, which is caused by voltage variations.
 - https://github.com/antistereotip/ghost/tree/main/GATES
 
 ## Funny Bit, Nibble and Byte

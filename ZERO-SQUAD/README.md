@@ -1,4 +1,4 @@
-## Zero Squad - Final Detachment.
+## Zero Squad - Final Detachment. 0 Team.
 
 ### Zero Squad. Qbit Team.
 

@@ -26,6 +26,7 @@
 - Folder 24 - Six Nibbles Value
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
+- Folder ZERO-SQUAD - Executive Team
 
 ## Develop Functions and Procedures
 TODO:

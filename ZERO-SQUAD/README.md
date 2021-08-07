@@ -31,8 +31,8 @@
 
 ### Command chain:
 
-- 0000 is comand line interface (master- core) - Priority - [0] - First member 
-- 1111 is second line interface (second line - core) - Priority - [1] - Last member
+- 0000 is comand line interface (master- core) - Priority - [0] - First member - NULL MEMBER.
+- 1111 is second line interface (second line - core) - Priority - [1] - Last member.
 - 1001 is shell interface (under priority - shell) - Priority - [2]
 - 0110 is also shell interface (under priority - shell) - Priority - [2]
 - Comandline interface for executing by priority: [0] -> [1] -> [2], [2] :
@@ -40,22 +40,22 @@
 
 ## Zero Detachment first 16 members in chain of command:
 
-- 0000 [core]
-- 1111 [core]
-- 1001 [shell]
-- 0110 [shell]
-- 0001 [environment]
-- 0011 [environment]
-- 0111 [environment]
-- 1110 [environment]
-- 1100 [environment]
-- 1000 [environment]
-- 1010 [environment]
-- 0101 [environment]
-- 1011 [environment]
-- 0100 [environment]
-- 0010 [environment]
-- 1101 [environment]
+- 0000 [core - first in chain - N]
+- 1111 [core - last in chain - Y]
+- 1001 [shell - middle chain - Y N]
+- 0110 [shell - middle chain - Y N]
+- 0001 [environment - Y N]
+- 0011 [environment - Y N]
+- 0111 [environment - Y N]
+- 1110 [environment - Y N]
+- 1100 [environment - Y N]
+- 1000 [environment - Y N]
+- 1010 [environment - Y N]
+- 0101 [environment - Y N]
+- 1011 [environment - Y N]
+- 0100 [environment - Y N]
+- 0010 [environment - Y N]
+- 1101 [environment - Y N]
 
 ## Continue execute members logic:
 

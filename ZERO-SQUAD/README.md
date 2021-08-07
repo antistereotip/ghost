@@ -136,6 +136,95 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
 </p>
 
+<div align="center"><center><table BORDER="1" CELLSPACING="1" CELLPADDING="0">
+      <tr>
+        <td WIDTH="60"><b>Decimal</b> </td>
+        <td WIDTH="85"><b>Hexadecimal</b> </td>
+        <td WIDTH="61"><b>Binary</b> </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">0 </td>
+        <td WIDTH="85">0 </td>
+        <td WIDTH="61">0000 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">1 </td>
+        <td WIDTH="85">1 </td>
+        <td WIDTH="61">0001 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">2 </td>
+        <td WIDTH="85">2 </td>
+        <td WIDTH="61">0010 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">3 </td>
+        <td WIDTH="85">3 </td>
+        <td WIDTH="61">0011 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">4 </td>
+        <td WIDTH="85">4 </td>
+        <td WIDTH="61">0100 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">5 </td>
+        <td WIDTH="85">5 </td>
+        <td WIDTH="61">0101 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">6 </td>
+        <td WIDTH="85">6 </td>
+        <td WIDTH="61">0110 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">7 </td>
+        <td WIDTH="85">7 </td>
+        <td WIDTH="61">0111 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">8 </td>
+        <td WIDTH="85">8 </td>
+        <td WIDTH="61">1000 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">9 </td>
+        <td WIDTH="85">9 </td>
+        <td WIDTH="61">1001 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">10 </td>
+        <td WIDTH="85">A </td>
+        <td WIDTH="61">1010 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">11 </td>
+        <td WIDTH="85">B </td>
+        <td WIDTH="61">1011 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">12 </td>
+        <td WIDTH="85">C </td>
+        <td WIDTH="61">1100 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">13 </td>
+        <td WIDTH="85">D </td>
+        <td WIDTH="61">1101 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">14 </td>
+        <td WIDTH="85">E </td>
+        <td WIDTH="61">1110 </td>
+      </tr>
+      <tr>
+        <td WIDTH="60">15 </td>
+        <td WIDTH="85">F </td>
+        <td WIDTH="61">1111 </td>
+      </tr>
+    </table>
+    </center></div>
+
 *Tools lookup brief.*
 
 ## Tools:

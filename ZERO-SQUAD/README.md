@@ -13,6 +13,10 @@
 
 - We'll give the demon a notebook and a pen. He won't be able to use the eraser. The condition is that he writes down every value of every particle in that notebook and that his pen is not used up, but also that the notebook has an infinite side. He would start writing down the values of a particle in order and change the positions of that particle in speed (moving from one part of the vessel to another and vice versa). If he used an eraser and erased only one particle velocity value, he would break the possibility of returning everything as it was (the process would be irreversible), but theoretically if he wrote everything down and did it right and defied the law of thermodynamics, and wanted to return everything as was, to return everything to an autonomous state, but also to return the thermodynamic law, he would have to return each particle to its place in order and continue with the observation. As a result, it would get a reversible process in its entirety and there is actually the power of quantum physics.
 
+<p align="left">
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/top-secret.jpg" width="300" />
+</p>
+
 - Conclusion. Super quantum computers could break every possible secret in the world in a short time (all TOP SECRET tags would become public - PUBLIC) because any asymmetric but also symmetric algorithm would be broken in a very short time and all tags under the veil of secrecy would be revealed. . That would be a great advance for humanity. FULLSTOP.
 
 - 0000 is comand line interface (master- core) - Priority - [0]

@@ -1,6 +1,6 @@
 ## Zero Squad - Final Detachment.
 
-### Zero Squad.
+### Zero Squad. Qbit Team.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/mouseanimation.gif" width="300" />

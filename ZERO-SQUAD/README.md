@@ -135,6 +135,6 @@
 *Almost The end.*
 
 ## Thats All Folks
-### Kingest Regards. 0000 [hightech]. Admin.Someone call me Mickey, Someone Preacher of tech, but friends call me Milutin.
+### Kingest Regards. Admin.
 
 

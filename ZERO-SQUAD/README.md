@@ -57,9 +57,9 @@
 
 ## Zero Detachment first 16 members in chain of command:
 
-- 0000 [core - first in chain - N]
-- 1111 [core - last in chain - Y]
-- 1001 [shell - middle chain - Y N]
+- 0000 [core - first in chain - N] 
+- 1111 [core - last in chain - Y] 
+- 1001 [shell - middle chain - Y N] 
 - 0110 [shell - middle chain - Y N]
 - 0001 [environment - Y N]
 - 0011 [environment - Y N]

@@ -22,7 +22,7 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/rainbowline.gif" />
 </p>
 
-- Hierarchy starting from the very beginning where the current is equal to zero, within nibble 0000. Then in each possible next variant an electric current pulse appears until the circuit closes with the last nibble 1111. After that, a reset is performed to the beginning of the command chain at 0000 and that is the end of the cycle. Everything stops there, the current is completely turned off and does not show any activity of the algorithm. This is called rooting possibilities.
+- Hierarchy starting from the very beginning where the current is equal to zero, within nibble 0000 [0]. Then in each possible next variant an electric current pulse appears until the circuit closes with the last nibble 1111 [F]. After that, a reset is performed to the beginning of the command chain at 0000 and that is the end of the cycle. Everything stops there, the current is completely turned off and does not show any activity of the algorithm. This is called rooting possibilities. **Start - [0] -> [F] -> [0] - Stop**
 
 - If we cross 1111 combinations with keys and logical gates as well as with encryption, we get a very complex representation of the character. Each of these views goes through two interlayers, where interference changes their states and it is completely unpredictable how the data travels, it is almost impossible to hack them.
 

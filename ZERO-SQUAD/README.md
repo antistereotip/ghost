@@ -69,12 +69,12 @@
 
 ## Continue execute members logic:
 
-- 0002 [execute]
-- 0003 [execute]
-- 0004 [execute]
-- 0005 [execute]
-- 0006 [execute]
-- nnnn [execute]
+- 0002 [execute - Y N]
+- 0003 [execute - Y N]
+- 0004 [execute - Y N]
+- 0005 [execute - Y N]
+- 0006 [execute - Y N]
+- nnnn [execute - Y N]
 
 ## Funny Bit, Nibble and Byte
 

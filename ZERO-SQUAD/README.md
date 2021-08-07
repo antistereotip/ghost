@@ -90,6 +90,15 @@
 - 0006 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
 - nnnn [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
 
+## Keys:
+
+*Four keys for combining with nibbles.*
+
+- 0000ffffaacc1100ffaaccffffacca10010ff01cca333ff4fff
+- ccffffacca10010ff01cca0000ffffaacc1100ffaa222ffccaa
+- 0000ffffaacc1100ffaacc0010ff01cca0000fffee1111cccaa
+- faacc1100ffaacc0010ff01cca0000fffeeaaaa111fffaaaeee
+
 ## Funny Bit, Nibble and Byte
 
 <p align="left">

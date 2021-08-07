@@ -79,7 +79,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bits_bytes.gif" width="300" />
+  <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bitnibblebyte.png" width="300" />
 </p>
 
 ## Tools:

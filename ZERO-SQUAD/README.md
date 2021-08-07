@@ -84,11 +84,11 @@
 
 - 0002 [execute - Y N] - Combining Electricity with Hexa Values (Go To: Line 4)
 - 0003 [execute - Y N] - Combining Electricity with Hexa Values (Go To: Line 4)
-- 0004 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
-- 0004 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
-- 0005 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
-- 0006 [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
-- nnnn [execute - Y N] - Combinin  Electricity with Hexa Values (Go To: Line 4)
+- 0004 [execute - Y N] - Combining  Electricity with Hexa Values (Go To: Line 4)
+- 0004 [execute - Y N] - Combining  Electricity with Hexa Values (Go To: Line 4)
+- 0005 [execute - Y N] - Combining  Electricity with Hexa Values (Go To: Line 4)
+- 0006 [execute - Y N] - Combining  Electricity with Hexa Values (Go To: Line 4)
+- nnnn [execute - Y N] - Combining  Electricity with Hexa Values (Go To: Line 4)
 
 ## Keys for 4 nibble core members:
 

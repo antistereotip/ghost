@@ -57,31 +57,32 @@
 
 ## Zero Detachment first 16 members in chain of command:
 
-- 0000 [core - first in chain - N] 
-- 1111 [core - last in chain - Y] 
-- 1001 [shell - middle chain - Y N] 
-- 0110 [shell - middle chain - Y N]
-- 0001 [environment - Y N]
-- 0011 [environment - Y N]
-- 0111 [environment - Y N]
-- 1110 [environment - Y N]
-- 1100 [environment - Y N]
-- 1000 [environment - Y N]
-- 1010 [environment - Y N]
-- 0101 [environment - Y N]
-- 1011 [environment - Y N]
-- 0100 [environment - Y N]
-- 0010 [environment - Y N]
-- 1101 [environment - Y N]
+- 0000 [core - first in chain - N] - Start with 0 electricity (Line 1)
+- 1111 [core - last in chain - Y] - End with 1 Electricity (Line 2) (Go To: Line 1)
+- 1001 [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
+- 0110 [shell - middle chain - Y N] - Combining Electricity (Line 3) (Go To: Line 2)
+- 0001 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 0011 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 0111 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1110 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1100 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1000 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1010 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 0101 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1011 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 0100 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 0010 [environment - Y N] - Combining Electricity (Go To: Line 3)
+- 1101 [environment - Y N] - Combining Electricity (Go To: Line 3)
 
 ## Continue execute members logic:
 
-- 0002 [execute - Y N]
-- 0003 [execute - Y N]
-- 0004 [execute - Y N]
-- 0005 [execute - Y N]
-- 0006 [execute - Y N]
-- nnnn [execute - Y N]
+- 0002 [execute - Y N] - Combining Electricity with Hexa Values
+- 0003 [execute - Y N] - Combining Electricity with Hexa Values
+- 0004 [execute - Y N] - Combinin  Electricity with Hexa Values
+- 0004 [execute - Y N] - Combinin  Electricity with Hexa Values
+- 0005 [execute - Y N] - Combinin  Electricity with Hexa Values
+- 0006 [execute - Y N] - Combinin  Electricity with Hexa Values
+- nnnn [execute - Y N] - Combinin  Electricity with Hexa Values
 
 ## Funny Bit, Nibble and Byte
 

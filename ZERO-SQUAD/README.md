@@ -102,10 +102,13 @@
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="300" />
 </p>
 
+### Puzzles:
+
 - Hide the Tree in the Forest.
 - What is Fast or Rabbit?
 - What is Fast or Not?
 - The one who dies with the most Toys wins.
+- In the woods he goes home looking?
 
 ## Thats All Folks
 

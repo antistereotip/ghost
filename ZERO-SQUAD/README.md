@@ -92,7 +92,7 @@
 
 ## Keys for 4 nibble core members:
 
-*Four keys for combining with 4 core nibbles.*
+*Two keys for combining with 4 core nibbles.*
 
 - 0011000000aaaa0000000000000000ccc00000000000000000ffff1111000010010000
 - ffff000000110000000aaaa000000000000ccc00000000000000001111000001101111

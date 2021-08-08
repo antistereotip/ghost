@@ -207,13 +207,8 @@ time it is basic. Seatbelts please.
 ### Logotip
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/cute-ghost.gif"  width="200" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png"  width="200" />
 </p>
-
-<p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/funny-ghost.gif"  width="200" />
-</p>
-
 
 ### Contact
 email: milutingavrilovic@gmail.com

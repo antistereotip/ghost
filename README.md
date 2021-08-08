@@ -3,6 +3,7 @@
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br /><img src="https://aleen42.github.io/badges/src/bmw.svg" />
 
+<img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="200" />
 
 *Ghost protocol.* 
 *Ghost will start at year 2025 at 13:37 RIP Danilo Bogdanov.*

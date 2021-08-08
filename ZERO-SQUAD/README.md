@@ -2,6 +2,8 @@
 
 ## Zero Squad - Final Detachment. 0 Team.
 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
 ### Zero Detachment. Qbit Team. Executive Team for Decrypting Network.
 
 <p align="left">

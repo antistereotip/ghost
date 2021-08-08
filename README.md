@@ -10,7 +10,7 @@
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*
 
-<img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="300"/>
+<img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
 
 ## Ghost Documentation
 - RUN - Execute Ghost Logic

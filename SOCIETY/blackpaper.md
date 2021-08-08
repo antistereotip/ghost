@@ -207,7 +207,7 @@ time it is basic. Seatbelts please.
 ### Logotip
 
 <p align="left">
-   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png"  width="200" />
+   <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png"  width="300" />
 </p>
 
 ### Contact

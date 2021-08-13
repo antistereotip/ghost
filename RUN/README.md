@@ -1,6 +1,9 @@
 ## INTRO
 - The development should move in the direction of big data and the algorithms that that data solves.
 - The algorithm that would determine the complexity of big data could range from a few Megabytes to a few Petabytes, the data itself, while the algorithms should be solved by distributed systems of networked computers. From Level Up, to Level Out.
+- The network structure should have a combination of programming language C, LISP and BASH exclusively in the FreeBsd operating system. 
+- Use C and LISP for the file system while BASH will be used in programming the environment. Only ssh connection and telnet connection will be available to the application, but at the admin level.
+
 
 ## Technologies
 - ANSI C (.c)

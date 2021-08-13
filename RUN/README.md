@@ -17,7 +17,7 @@
 ### Ghost Protocol Programming Module, Construction of Security Programming language
 - Ghost as a .ghs syntax will be used as a security program module. It will have syntax like almost any programming language but will be focused on trained matrices. An API will be created that will pull all program modules. Ghost should be something like a Feature of any language.
 
-### Syntax of matrices
+## Syntax of matrices
 ##### Array:
 `$matrix->map = array( 
 	array(
@@ -55,7 +55,7 @@
 - GO (.go)
 - Python (.py)
 
-## Development
+## Development Logic
 - Abstract (Matrix)
 - Hyper (Speed)
 - Out of box (Diferent thinking)

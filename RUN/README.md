@@ -37,6 +37,7 @@
 	)
 );`
 - It will be a multidimensional matrix that will carry process records over the data.
+- It will randomly map one of the core users to a random big data container. Its 3 x 4 combinations.
 
 ## Technologies
 - ANSI C (.c)

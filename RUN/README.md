@@ -38,6 +38,8 @@
 );`
 - It will be a multidimensional matrix that will carry process records over the data.
 - It will randomly map one of the core users to a random big data container. Its 3 x 4 combinations.
+- If all random logic is transferred to 1111 members, and if all 1111 are mapped to big data, then random combinations of theses are also predictable. 
+- With random processes, the entire communication will be encrypted, while the end user will eventually have everything decrypted with his key and home jail.
 
 ## Technologies
 - ANSI C (.c)

@@ -10,7 +10,7 @@
 - Core users (0000, 1111, 1001, 0110) will command all other 1111 software engineers. Everyone else, except the Core team, will have their connections and their data will come filtered and completely decrypted. An excellent team of 1111 people is very complex when each user can start [n] processes at a higher level. GO is ANSI C of 21 century :) Make it GO :)
 
 ### My definition BIG DATA: 
-- Big Data can be 1MB, 1PB or 1ZB 1nB.
+- Big Data can be 1MB, 1PB or 1ZB or 1nB.
 - Depending on the complexity and content of the data itself, no matter how much it is, it is sometimes harder to solve 1MG of quality code, minimized and complex at the same time, than to handle 50 PT movies to orchestrated servers. 
 - And at the same time very well coded in a bunch of abbreviations for using a library.
 

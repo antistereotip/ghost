@@ -1,8 +1,9 @@
 ## INTRO
 - The development should move in the direction of big data and the algorithms that that data solves.
 - The algorithm that would determine the complexity of big data could range from a few Megabytes to a few Petabytes, the data itself, while the algorithms should be solved by distributed systems of networked computers. From Level Up, to Level Out.
-- The network structure should have a combination of programming language C, LISP and BASH and Python exclusively in the FreeBsd operating system.
-- Use C and LISP for the file system while BASH and Python will be used in programming the environment. Only ssh connection and telnet connection will be available to the application, but at the admin level. BBS (Synhronet) included for admin team only.
+- The network structure should have a combination of programming language C, LISP, GO and BASH and Python exclusively in the FreeBsd operating system.
+- Use C and LISP for the file system while BASH and Python and GO will be used in programming the environment and high level aplication level. 
+- Only ssh connection and telnet connection will be available to the application, but at the admin level. BBS (Synhronet) included for admin (core) team only.
 - Telnet access into intern core system, fully open source for core team (4 nibbles - 0000, 1111, 1001, 0110).
 - Algorithm wil be written in ANSI C. That Algorithm will be work with big data structures and complexity. Just core team will be users of system and alghoritm.
 - Core users (0000, 1111, 1001, 0110) will command all other 1111 software engineers. Everyone else, except the Core team, will have their connections and their data will come filtered and completely decrypted. An excellent team of 1111 people is very complex when each user can start [n] processes at a higher level. Maybe GO is perfect for high level. GO is ANSI C of 21 century :)

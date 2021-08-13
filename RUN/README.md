@@ -1,3 +1,6 @@
+##INTRO
+The development should move in the direction of big data and the algorithms that that data solves.
+
 ## Technologies
 - ANSI C (.c)
 - LISP (.lisp)

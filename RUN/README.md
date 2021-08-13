@@ -133,7 +133,11 @@ RUN part of Repo must have quantum power in processing.
 - 0110 (BASH)
 - 1111 (GO)
 
+
+## SRPSKI
+
 ## DOKUMENTACIJA NA SRPSKOM
+
 ### Uvod
 - Razvoj treba da ide u pravcu velikih podataka i algoritama koje ti podaci rešavaju.
 - Algoritam koji bi odredio složenost velikih podataka mogao bi se kretati od nekoliko megabajta do nekoliko petabajta, samih podataka, dok bi algoritme trebalo rešavati distribuiranim sistemima umreženih računara. Od nivoa nagore, do nivoa napona.

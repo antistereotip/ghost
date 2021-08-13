@@ -132,3 +132,14 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 - 1001 (LISP)
 - 0110 (BASH)
 - 1111 (GO)
+
+## SRPSKI
+- Razvoj treba da ide u pravcu velikih podataka i algoritama koje ti podaci rešavaju.
+- Algoritam koji bi odredio složenost velikih podataka mogao bi se kretati od nekoliko megabajta do nekoliko petabajta, samih podataka, dok bi algoritme trebalo rešavati distribuiranim sistemima umreženih računara. Od nivoa nagore, do nivoa napona.
+- Mrežna struktura treba da ima kombinaciju programskog jezika C, LISP, GO i BASH i Pithon isključivo u operativnom sistemu FreeBsd.
+- Koristite C i LISP za sistem datoteka, dok će se BASH i Pithon i GO koristiti za programiranje okruženja i nivo aplikacija na visokom nivou.
+- Ne koristi se baza podataka
+- Aplikaciji će biti dostupne samo ssh veza i telnet veza, ali na nivou administratora. BBS (Sinhronet) uključen samo za administratorski (osnovni) tim.
+- Telnet pristup osnovnom sistemu pripravnika, potpuno otvoren izvor za osnovni tim (4 grickalica - 0000, 1111, 1001, 0110).
+- Algoritam će biti napisan u ANSI C. Taj algoritam će raditi sa strukturama velikih podataka i složenošću. Samo osnovni tim će biti korisnici sistema i alghoritma.
+- Osnovni korisnici (0000, 1111, 1001, 0110) će komandovati svim ostalim 1111 softverskim inženjerima. Svi ostali, osim tima Core, imat će veze i njihovi će se podaci filtrirati i potpuno dešifrirati. Odličan tim od 1111 ljudi veoma je složen kada svaki korisnik može započeti [n] procese na višem nivou. GO je ANSI C 21. veka :) Neka bude GO :)

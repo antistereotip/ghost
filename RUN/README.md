@@ -18,22 +18,22 @@
 #### Array:
 `$eng->sadrzaj = array( 
 	array(
-	"naslov" => "data1",
-	"autor" => "data2",
-	"tema" => "data3",
-	"tekst" => "data4"
+	"0000" => "data1",
+	"1111" => "data2",
+	"0110" => "data3",
+	"1001" => "data4"
 	),
 	array(
-	"naslov" => "data5",
-	"autor" => "data6",
-	"tema" => "data7",
-	"tekst" => "data8"
+	"1001" => "data5",
+	"1111" => "data6",
+	"0110" => "data7",
+	"0000" => "data8"
 	),
 	array(
-	"naslov" => "data9",
-	"autor" => "data10",
-	"tema" => "data11",
-	"tekst" => "data12"
+	"0000" => "data9",
+	"1001" => "data10",
+	"1111" => "data11",
+	"0110" => "data12"
 	)
 );`
 

@@ -173,7 +173,7 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 );`
 
 - To će biti višedimenzionalna matrica koja će nositi zapise procesa preko podataka.
-- On će nasumično preslikati jednog od osnovnih korisnika u slučajni kontejner velikih podataka. Njegove 3 k 4 kombinacije.
+- On će nasumično preslikati jednog od osnovnih korisnika u slučajni kontejner velikih podataka. Njegove 3 x 4 kombinacije.
 - Ako se sva slučajna logika prenese na 1111 članova, i ako se svih 1111 preslika u velike podatke, tada se mogu predvideti i slučajne kombinacije ovih teza.
 - Uz slučajne procese, cela komunikacija će biti šifrovana, dok će krajnji korisnik na kraju sve dešifrovati svojim ključem i kućnim zatvorom.
 - Kada se koristi proces brisanja, motor naprednim algoritmom briše sve otiske ostavljene na čvrstom disku.

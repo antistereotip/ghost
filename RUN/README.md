@@ -78,6 +78,7 @@ perception, and the moment we get involved in requesting that information that t
 has processed, we actually get only a simple bit as output. According to some, this happens, among other 
 things, because the human brain and body are not ready or accustomed to the state of particle superposition. 
 It can be understandably said that this phenomenon is a matter of shyness of the qubit itself.
+RUN part of Repo must have quantum power in processing.
 
 
 ## Table of Proof
@@ -180,6 +181,60 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 - To znači da krajnji korisnik upravlja svojim podacima. Kao opciju navodi potpuno brisanje.
 - Matematičke probleme generisane slučajnim procesima korisnici rešavaju pokretanjem algoritma uključujući Ghost API.
 
+## Tabela tehnologija
+
+<table>
+  <tr>
+    <th>Technologija</th>
+    <th>Opis</th>
+    <th>Detalji</th>
+    <th>Nibble</th>
+  </tr>
+  <tr>
+    <td>ANSI C</td>
+    <td>Proceduralno - Funkcije</td>
+    <td>Brzo i nezaboravno</td>
+    <th>0000</th>
+  </tr>
+  <tr>
+    <td>LISP</td>
+    <td>Logika nizova</td>
+    <td>Vestacka inteligencija</td>
+    <th>1001</th>
+  </tr>
+  <tr>
+    <td>BASH</td>
+    <td>Programiranje Okruzenja</td>
+    <td>BOFH Izgovori</td>
+    <th>0110</th>
+  </tr>
+  <tr>
+    <td>GHOST</td>
+    <td>Low Level Programiranje</td>
+    <td>BOFH Izgovori</td>
+    <th>0000</th>
+  </tr>
+  <tr>
+    <td>GO</td>
+    <td>High Level Programiranje</td>
+    <td>BOFH Izgovori Opet</td>
+    <th>1111</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>High Level Scripting</td>
+    <td>Interpretovani Viseg Nivoa Jezik Generalne Svrhe</td>
+    <th>0000</th>
+  </tr>
+</table>
+
+
+### Nibble-i za procese tehnologije, samo jezgro (core) korisnika.
+- 0000 (ANSI C, Python, GHOST)
+- 1001 (LISP)
+- 0110 (BASH)
+- 1111 (GO)
+
 ## KVANTNA LOGIKA (SRCE ALGORITMA)
 - Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije i druga kvantna svojstva za operaciju nad informacijama. 
 - To znači da kjubit može imati više stanja nule i jedinice (0, 1, 01, 00, 10, 11), jer svaki od tih stanja se može nalaziti u superpoziciji, što kjubitu daje multidimenzionalnost. 
@@ -196,4 +251,4 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 - Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da pojasnimo šta se tu zapravo dešava.Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju (0, 1, 0, 01, 00, 10, 11) i imamo mešanje (gore 1, 0, 01, 00, 10, 11) (i) (dole, 1, 0, 01, 00, 10, 11). Ovo je najprostija postavka kjubita. Sad sve ovo što vidite uzmite i promešajte u svim mogućim smerovima i dimenzijama i dobićete kvantni bit u superpoziciji kao rezultat. Ono što se desilo je to da kvantni bit može biti bilo koja vrednost koja postoji u prostoru i vremenu (kao moguće stanje). Ovo znači da su pravila kvantne fizike jako nestabilna jer je u stanju superpozicije jedne čestice narušen bilo koj princip termodinamike (Prvi termodinamički zakon o održanju energije – kao primer). Primer, teorijski bar za sada, ali tačna postavka je Maksvelov demon, gde postoje dve posude u jednoj posudi a između njih neka pregrada i u sredini vrata. I imamo demona koj ta vrata otvara i zatvara. Pošto principi termodinamike funkcionišu u autonomnom stanju, demon narušava tu autonomiju i više nema šta da se opovrgava niti da se narušava postulat termodinamike. Ali uzmimo za primer da možemo hipotetički automatizovati taj proces otvaranja i zatvaranja vrata i ostaviti posudu u autonomnom stanju. U te dve posude imamo neke čestice, jedne su brže (imaju veću temperaturu) a druge su sporije (imaju manju temperaturu), a pošto demon stoji sa strane van autonomije same posude, on zapisuje brzinu svake čestice. Sve brže čestice iz jedne posude (gde su sporije čestice) premešta u posudu gde su brže čestice, a sporije čestice (gde su brže čestice) premešta u posudu gde su sporije čestice. Time se dobija veća temperatura u posudi gde su brže čestice a tamo gde su sporije čestice, dobija se još manja temperatura. Ovim postupkom smo narušili prvi zakon termodinamike jer takav zakon govori da telo koje ima manju temperaturu ako se nađe pored tela koje ima veću temperaturu, između njih će doći do razmene energije (Toplije će grejati hladnije). U ovom slučaju dešava se paradoks Maksvelovog demona.
 - Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u svakom smsilu te reči. Idemo korak dalje. Uzećemo primer kofe sa dve boje peska, žutim peskom i sivim peskom. Uzećemo lopaticu i mešati pesak. Onog trenutka kada pesak promešamo, ne postoji reversabilni proces da sve to vrati kako je bilo. Sada ćemo se opet vratiti na Maksvelovog demona i videti kako je moguće prkositi ireversibilnosti, tj kako možemo izvesti reversibilni proces (bar teorijski). Ova teorija nam govori, ukoliko je tačna, da kvantna fizika ima moć reversibilnosti, što bi moglo da reši dekripciju najsloženijih kripto algoritama. Dakle, imamo i dalje posudu sa pregradom na sredini i mala vratanca koja dele tu posudu na dva dela. Rekli smo da imamo brže i sporije čestice i da imamo demona sa strane koj posmatra i dodeljuje vrednosti i pomera čestice sa jedne na drugu stranu i obrnuto. Želimo da stvorimo reversibilni proces. Daćemo demonu svesku i olovku. Gumicu neće moći da koristi. Uslov je da zapisuje svaku vrednost svake čestice u tu svesku i da mu se olovka ne potroši, ali i da sveska ima beskonačno strana. Krenuo bi redom da zapisuje vrednosti čestice i po brzini da menja pozicije te čestice (premeštanje iz jednog dela posude u drugi i obrnuto). Ako bi koristio gumicu i obrisao samo jednu vredonst brzine čestice, razbio bi mogućnost da se sve vrati kako je bilo (proces bi bio ireversibilan), ali teorisjki ako bi sve zapisao i uradio kako treba i prkosio zakonu termodinamike, a želeo da vrati sve kako je bilo, da se sve vrati u autonomno stanje ali i da se vrati termodinamički zakon, on bi morao po svesci da svaku česticu redom vrati na svoje mesto i da nastavi sa posmatranjem. Kao rezltat, dobio bi reversibilni proces u pospunosti i tu je zapravo moć kvante fizike.Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u svakom smsilu te reči. Idemo korak dalje. Uzećemo primer kofe sa dve boje peska, žutim peskom i sivim peskom. Uzećemo lopaticu i mešati pesak. Onog trenutka kada pesak promešamo, ne postoji reversabilni proces da sve to vrati kako je bilo. Sada ćemo se opet vratiti na Maksvelovog demona i videti kako je moguće prkositi ireversibilnosti, tj kako možemo izvesti reversibilni proces (bar teorijski). Ova teorija nam govori, ukoliko je tačna, da kvantna fizika ima moć reversibilnosti, što bi moglo da reši dekripciju najsloženijih kripto algoritama. Dakle, imamo i dalje posudu sa pregradom na sredini i mala vratanca koja dele tu posudu na dva dela. Rekli smo da imamo brže i sporije čestice i da imamo demona sa strane koj posmatra i dodeljuje vrednosti i pomera čestice sa jedne na drugu stranu i obrnuto. Želimo da stvorimo reversibilni proces. Daćemo demonu svesku i olovku. Gumicu neće moći da koristi. Uslov je da zapisuje svaku vrednost svake čestice u tu svesku i da mu se olovka ne potroši, ali i da sveska ima beskonačno strana. Krenuo bi redom da zapisuje vrednosti čestice i po brzini da menja pozicije te čestice (premeštanje iz jednog dela posude u drugi i obrnuto). Ako bi koristio gumicu i obrisao samo jednu vredonst brzine čestice, razbio bi mogućnost da se sve vrati kako je bilo (proces bi bio ireversibilan), ali teorisjki ako bi sve zapisao i uradio kako treba i prkosio zakonu termodinamike, a želeo da vrati sve kako je bilo, da se sve vrati u autonomno stanje ali i da se vrati termodinamički zakon, on bi morao po svesci da svaku česticu redom vrati na svoje mesto i da nastavi sa posmatranjem. Kao rezltat, dobio bi reversibilni proces u pospunosti i tu je zapravo moć kvante fizike.
 - Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki napredak za čovečanstvo. FULLSTOP.
-- RUN part of Repo must have quantum power in processing.
+- RUN deo Repozitorijuma mora imati kvantnu snagu procesuiranja kao i kvantne procese.

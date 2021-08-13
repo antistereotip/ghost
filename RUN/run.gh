@@ -1,6 +1,13 @@
 #---ghost language example---#
 include [RUN/parameters];
 
+#---arrays---#
+`$matrix->map = array( array( "0000" => "data1", "1111" => "data2", "0110" => "data3", "1001" => "data4" ), 
+                      array( "1001" => "data5", "1111" => "data6", "0110" => "data7", "0000" => "data8" ), 
+                      array( "0000" => "data9", "1001" => "data10", "1111" => "data11", "0110" => "data12" ) );`
+
+
+
 #---make fnc for executing env---#
 fnc ghost[parameters/n] {
   regenerate_self[parameters];

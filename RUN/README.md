@@ -5,7 +5,8 @@
 - Use C and LISP for the file system while BASH and Python will be used in programming the environment. Only ssh connection and telnet connection will be available to the application, but at the admin level. BBS (Synhronet) included for admin team only.
 - Telnet access into intern core system, fully open source for core team (4 nibbles - 0000, 1111, 1001, 0110).
 - Algorithm wil be written in ANSI C. That Algorithm will be work with big data structures and complexity. 
-- My definition BIG DATA: Big Data moze biti 1MB, 1PB or 1ZB 1nB.
+### My definition BIG DATA: 
+- Big Data moze biti 1MB, 1PB or 1ZB 1nB.
 - Depending on the complexity and content of the data itself, no matter how much it is, it is sometimes harder to solve 1MG of quality code, minimized and complex at the same time, than to handle 50 PT movies to orchestrated servers. 
 - And at the same time very well coded in a bunch of abbreviations for using a library.
 

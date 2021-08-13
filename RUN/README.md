@@ -82,7 +82,7 @@ RUN part of Repo must have quantum power in processing.
 
 
 ## Table of tech
-`<table>
+<table>
   <tr>
     <th>Technology</th>
     <th>Description</th>
@@ -125,7 +125,7 @@ RUN part of Repo must have quantum power in processing.
     <td>BOFH Excuses</td>
     <th>0000</th>
   </tr>
-</table>`
+</table>
 
 ### Nibbles for Tech Handling
 - 0000 (ANSI C, Python, GHOST)
@@ -183,7 +183,7 @@ RUN part of Repo must have quantum power in processing.
 
 ## Tabela tehnologija
 
-`<table>
+<table>
   <tr>
     <th>Technologija</th>
     <th>Opis</th>
@@ -226,7 +226,7 @@ RUN part of Repo must have quantum power in processing.
     <td>Interpretor Viseg Nivoa Jezika Generalne Svrhe</td>
     <th>0000</th>
   </tr>
-</table>`
+</table>
 
 
 ### Nibble-i za procese tehnologije, samo jezgro (core) korisnika.
@@ -235,7 +235,7 @@ RUN part of Repo must have quantum power in processing.
 - 0110 (BASH)
 - 1111 (GO)
 
-## Technologies
+## Technologije
 - ANSI C (.c)
 - LISP (.lisp)
 - BASH (.sh)
@@ -243,7 +243,7 @@ RUN part of Repo must have quantum power in processing.
 - GO (.go)
 - Python (.py)
 
-## Development Logic
+## Razvojna logika
 - Abstraktno (Matrix)
 - Supresonicno (Brzo)
 - Izvan Kutije (Neuobicajeno Razmisljanje)

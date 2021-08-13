@@ -15,12 +15,14 @@
 ### Ghost Protocol Programming Module, Construction of Security Programming language
 - Ghost as a .ghs syntax will be used as a security program module. It will have syntax like almost any programming language but will be focused on trained matrices. An API will be created that will pull all program modules. Ghost should be something like a Feature of any language.
 
+
 ## Technologies
 - ANSI C (.c)
 - LISP (.lisp)
 - BASH (.sh)
 - GHOST LNG (.ghs)
-- GO ()
+- GO (.go)
+- Python (.py)
 
 ## Development
 - Abstract (Matrix)

@@ -126,6 +126,8 @@ It can be understandably said that this phenomenon is a matter of shyness of the
     <th>0000</th>
   </tr>
 </table>
+
+### Nibbles for Tech Handling
 - 0000 (ANSI C, Python, GHOST)
 - 1001 (LISP)
 - 0110 (BASH)

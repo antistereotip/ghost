@@ -81,9 +81,8 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 RUN part of Repo must have quantum power in processing.
 
 
-## Table of Proof
-
-<table>
+## Table of tech
+`<table>
   <tr>
     <th>Technology</th>
     <th>Description</th>
@@ -126,7 +125,7 @@ RUN part of Repo must have quantum power in processing.
     <td>BOFH Excuses</td>
     <th>0000</th>
   </tr>
-</table>
+</table>`
 
 ### Nibbles for Tech Handling
 - 0000 (ANSI C, Python, GHOST)
@@ -184,7 +183,7 @@ RUN part of Repo must have quantum power in processing.
 
 ## Tabela tehnologija
 
-<table>
+`<table>
   <tr>
     <th>Technologija</th>
     <th>Opis</th>
@@ -227,7 +226,7 @@ RUN part of Repo must have quantum power in processing.
     <td>Interpretor Viseg Nivoa Jezika Generalne Svrhe</td>
     <th>0000</th>
   </tr>
-</table>
+</table>`
 
 
 ### Nibble-i za procese tehnologije, samo jezgro (core) korisnika.
@@ -235,6 +234,22 @@ RUN part of Repo must have quantum power in processing.
 - 1001 (LISP)
 - 0110 (BASH)
 - 1111 (GO)
+
+## Technologies
+- ANSI C (.c)
+- LISP (.lisp)
+- BASH (.sh)
+- GHOST LNG (.ghs)
+- GO (.go)
+- Python (.py)
+
+## Development Logic
+- Abstraktno (Matrix)
+- Supresonicno (Brzo)
+- Izvan Kutije (Neuobicajeno Razmisljanje)
+- Izvan Logike (Nelogicno - Kvantno)
+- Kvantni bit (Qbit)
+- Socket Hackovanje (Prakticno Poznavanje)
 
 ## KVANTNA LOGIKA (SRCE ALGORITMA)
 - Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije i druga kvantna svojstva za operaciju nad informacijama. 

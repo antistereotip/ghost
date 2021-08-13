@@ -1,4 +1,4 @@
-##INTRO
+## INTRO
 - The development should move in the direction of big data and the algorithms that that data solves.
 - The algorithm that would determine the complexity of big data could range from a few Megabytes to a few Petabytes, the data itself, while the algorithms should be solved by distributed systems of networked computers. From Level Up, to Level Out.
 

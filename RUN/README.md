@@ -16,7 +16,7 @@
 - Ghost as a .ghs syntax will be used as a security program module. It will have syntax like almost any programming language but will be focused on trained matrices. An API will be created that will pull all program modules. Ghost should be something like a Feature of any language.
 ### Syntax of matrices
 #### Array:
-`$matrix -> map = array( 
+`$matrix->map = array( 
 	array(
 	"0000" => "data1",
 	"1111" => "data2",

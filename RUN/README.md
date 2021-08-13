@@ -180,7 +180,7 @@ It can be understandably said that this phenomenon is a matter of shyness of the
 - To znači da krajnji korisnik upravlja svojim podacima. Kao opciju navodi potpuno brisanje.
 - Matematičke probleme generisane slučajnim procesima korisnici rešavaju pokretanjem algoritma uključujući Ghost API.
 
-## KVANTNA LOGIKA
+## KVANTNA LOGIKA (SRCE ALGORITMA)
 - Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije i druga kvantna svojstva za operaciju nad informacijama. 
 - To znači da kjubit može imati više stanja nule i jedinice (0, 1, 01, 00, 10, 11), jer svaki od tih stanja se može nalaziti u superpoziciji, što kjubitu daje multidimenzionalnost. 
 - Zanimljivo kod kvantnog bita je zapravo to da on može imati moguće stanje (0, 1, 01, 00, 10, 11) samo i isključivo samo ukoliko ga ne posmatramo. Onog trenutka kada ga počnemo posmatrati on se transformiše u stanje običnog bita, gde mu je moguće stanje samo nula ili jedinica. 

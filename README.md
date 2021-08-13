@@ -41,7 +41,7 @@ TODO:
 - Functions to parse nibbles
 - Functions to generate combination of nibble and logic gate
 - Functions for operations of bit
-- Functions to randomise mixed logic
+- Functions to randomize mixed logic
 - Functions to separate nibble folders
 - Functions to generate universal map key
 - Functions for playing with pointers

@@ -193,7 +193,7 @@ RUN part of Repo must have quantum power in processing.
   <tr>
     <td>ANSI C</td>
     <td>Proceduralno - Funkcije</td>
-    <td>Brzo i nezaboravno</td>
+    <td>Brzo i Nezaboravno</td>
     <th>0000</th>
   </tr>
   <tr>
@@ -205,7 +205,7 @@ RUN part of Repo must have quantum power in processing.
   <tr>
     <td>BASH</td>
     <td>Programiranje Okruzenja</td>
-    <td>BOFH Izgovori</td>
+    <td>Born Again Shell, Ponovo Rodjena Ljuska</td>
     <th>0110</th>
   </tr>
   <tr>
@@ -217,13 +217,13 @@ RUN part of Repo must have quantum power in processing.
   <tr>
     <td>GO</td>
     <td>High Level Programiranje</td>
-    <td>BOFH Izgovori Opet</td>
+    <td>ANSI C Dvadeset Prvog veka</td>
     <th>1111</th>
   </tr>
   <tr>
     <td>Python</td>
-    <td>High Level Scripting</td>
-    <td>Interpretovani Viseg Nivoa Jezik Generalne Svrhe</td>
+    <td>High Level Programiranje</td>
+    <td>Interpretor Viseg Nivoa Jezika Generalne Svrhe</td>
     <th>0000</th>
   </tr>
 </table>

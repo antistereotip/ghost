@@ -108,7 +108,7 @@ It can be understandably said that this phenomenon is a matter of shyness of the
     <th>0110</th>
   </tr>
   <tr>
-    <td>GHOSTO</td>
+    <td>GHOST</td>
     <td>Low Level Scripting</td>
     <td>BOFH Excuses</td>
     <th>0000</th>

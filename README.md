@@ -86,7 +86,7 @@ TODO:
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
 ### Important documentation links:
-#### You can not start without reading this documents
+#### You can not start without reading this documents.
 - https://github.com/antistereotip/ghost
 - https://github.com/antistereotip/ghost/blob/main/README.md
 - https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md

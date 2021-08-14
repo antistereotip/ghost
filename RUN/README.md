@@ -2,7 +2,7 @@
 - The development should move in the direction of big data and the algorithms that that data solves.
 - The algorithm that would determine the complexity of big data could range from a few Megabytes to a few Petabytes, the data itself, while the algorithms should be solved by distributed systems of networked computers. From Level Up, to Level Out.
 - The network structure should have a combination of programming language C, LISP, GO and BASH and Python exclusively in the FreeBsd operating system.
-- Use C and LISP for the file system while BASH and Python and GO will be used in programming the environment and high level aplication level. 
+- Use C and LISP for the file system and low level while BASH and Python and GO will be used in programming the environment and high level aplication level. 
 - No database usage
 - Only ssh connection and telnet connection will be available to the application, but at the admin level. BBS (Synhronet) included for admin (core) team only.
 - Telnet access into intern core system, fully open source for core team (4 nibbles - 0000, 1111, 1001, 0110).
@@ -168,7 +168,7 @@ RUN part of Repo must have quantum power in processing.
 - Razvoj treba da ide u pravcu velikih podataka i algoritama koje ti podaci rešavaju.
 - Algoritam koji bi odredio složenost velikih podataka mogao bi se kretati od nekoliko megabajta do nekoliko petabajta, samih podataka, dok bi algoritme trebalo rešavati distribuiranim sistemima umreženih računara. Od nivoa nagore, do nivoa napona.
 - Mrežna struktura treba da ima kombinaciju programskog jezika C, LISP, GO i BASH i Pithon isključivo u operativnom sistemu FreeBsd.
-- Koristite C i LISP za sistem datoteka, dok će se BASH i Pithon i GO koristiti za programiranje okruženja i nivo aplikacija na visokom nivou.
+- Koristite C i LISP za sistem datoteka i za niski nivo (hardware), dok će se BASH i Pithon i GO koristiti za programiranje okruženja i nivo aplikacija na visokom nivou.
 - Ne koristi se baza podataka
 - Aplikaciji će biti dostupne samo ssh veza i telnet veza, ali na nivou administratora. BBS (Sinhronet) uključen samo za administratorski (osnovni) tim.
 - Telnet pristup osnovnom sistemu pripravnika, potpuno otvoren izvor za osnovni tim (4 nibble-a - 0000, 1111, 1001, 0110).

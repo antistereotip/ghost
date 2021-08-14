@@ -1,5 +1,5 @@
 ## RIP Danilo Bogdanov.
-### Ghost Protocol. 
+### Ghost Protocol. First invisible protocol in history of network.
 #### Coding name: 1337.
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />

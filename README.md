@@ -8,7 +8,7 @@
 <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="300" />
 
 *Ghost protocol.* 
-*Ghost will start at year 2025 at 13:37 RIP Danilo Bogdanov.*
+*Ghost will start at year 2025 at 13:37. RIP Danilo Bogdanov.*
 *The first invisible protocol in the history of the Internet.*
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*

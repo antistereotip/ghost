@@ -19,7 +19,7 @@
 
 ## We will rule the world.
 
-<img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
+<img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="600"/>
 
 ## Ghost Documentation.
 ### Please read all REDME.md files (Documentation links on bottom of document).

@@ -9,6 +9,8 @@
 
 <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="300" />
 
+### Start Of Life Ghost Protocol. 
+
 *Ghost protocol.* 
 *Ghost will start at year 2025 at 13:37. RIP Danilo Bogdanov.*
 *The first invisible protocol in the history of the Internet.*

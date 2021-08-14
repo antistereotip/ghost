@@ -1,3 +1,5 @@
+## LOGIC GATES
+
 ## and
 - a/b/and
 - 0-0-0

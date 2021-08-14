@@ -1,6 +1,7 @@
 ## RIP Danilo Bogdanov.
 - https://usk.rs/matematika/
 ### Ghost Protocol. First invisible protocol in history of network.
+- https://usk.rs/ghost/
 #### Coding name: 1337 :: Login or Die.
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />

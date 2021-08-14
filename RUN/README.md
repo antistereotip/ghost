@@ -65,6 +65,12 @@
                          array[ "0000" => "1001", "0110" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];`
 </pre>
 
+- Multiplication of multidimensionality in all known dimensions.
+- Multidimensional matrices and modularity.
+- The speed of calculating the connection of matrices to the encrypted module is required.
+- Encryption and decryption in a distributed environment.
+- Every bit entry in electrical circuits is necessary for the process to be reversible at some point.
+
 ## Technologies
 - ANSI C (.c)
 - LISP (.lisp)
@@ -157,6 +163,7 @@ RUN part of Repo must have quantum power in processing.
 <img src ="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="200" />
 </p>
 
+## --------------------------------------------------------------- ##
 
 ## SRPSKI
 
@@ -231,6 +238,11 @@ RUN part of Repo must have quantum power in processing.
                          array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];`
 </pre>
 
+- Multipliciranje multidimenzionalnosti u svim poznatim dimenzijama.
+- Multidimenzione matrice i modularnost.
+- Potrebna je brzina izracunavanja spajanja matrica u sifrovani modul.
+- Enkripcija i dekripcija u distribuiranom okruzenju.
+- Neophodan je svaki upis bita u elektricna kola, da bi proces u jednom trenutku bio reversibilan.
 
 ## Tabela tehnologija
 

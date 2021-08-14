@@ -21,7 +21,7 @@
 ##### Array:
 
 <pre>
-`$ghost->map = array[ 
+$ghost->map = array[ 
 	array[
 	"0000" => "data1",
 	"1111" => "data2",
@@ -40,7 +40,7 @@
 	"1111" => "data11",
 	"0110" => "data12"
 	]
-];`
+];
 </pre>
 
 - It will be a multidimensional matrix that will carry process records over the data.
@@ -54,7 +54,7 @@
 ### Random multidimension matrix with core nibbles
 
 <pre>
-`$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
+$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
                          array[ "1001" => "0110", "1111" => "0000", "0110" => "1001", "0000" => "1111" ], 
                          array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ],
                   array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
@@ -62,7 +62,7 @@
                          array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ],
                   array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
                          array[ "0110" => "1001", "0000" => "1111", "0110" => "1001", "0000" => "1111" ], 
-                         array[ "0000" => "1001", "0110" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];`
+                         array[ "0000" => "1001", "0110" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];
 </pre>
 
 - Multiplication of multidimensionality in all known dimensions.
@@ -194,7 +194,7 @@ RUN part of Repo must have quantum power in processing.
 ##### Niz:
 
 <pre>
-`$ghost->map = array[ 
+$ghost->map = array[ 
 	array[
 	"0000" => "data1",
 	"1111" => "data2",
@@ -213,7 +213,7 @@ RUN part of Repo must have quantum power in processing.
 	"1111" => "data11",
 	"0110" => "data12"
 	]
-];`
+];
 </pre>
 
 - To će biti višedimenzionalna matrica koja će nositi zapise procesa preko podataka.
@@ -227,7 +227,7 @@ RUN part of Repo must have quantum power in processing.
 ### Slucajna multidimenziona matrica sa core nibble-ovima (Nizovi na srpskom imaju drugu logiku)
 
 <pre>
-`$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
+$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
                          array[ "1001" => "0110", "1111" => "0000", "0110" => "1001", "0000" => "1111" ], 
                          array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ],
                   array[ array[ "1111" => "1001", "0000" => "0110", "0110" => "0000", "1001" => "1111" ], 
@@ -235,7 +235,7 @@ RUN part of Repo must have quantum power in processing.
                          array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ],
                   array[ array[ "0000" => "1001", "0000" => "0110", "0110" => "1111", "1001" => "1111" ], 
                          array[ "1001" => "0110", "1111" => "0000", "0110" => "1001", "0000" => "1111" ], 
-                         array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];`
+                         array[ "0000" => "0110", "1001" => "1111", "1111" => "1001", "0110" => "0000" ] ] ];
 </pre>
 
 - Multipliciranje multidimenzionalnosti u svim poznatim dimenzijama.

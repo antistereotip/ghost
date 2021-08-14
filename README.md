@@ -82,10 +82,10 @@ TODO:
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
 ### Important links
-https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
-https://github.com/antistereotip/ghost/blob/main/GATES/README.md
-https://github.com/antistereotip/ghost/blob/main/RUN/README.md
-https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
+- https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
+- https://github.com/antistereotip/ghost/blob/main/GATES/README.md
+- https://github.com/antistereotip/ghost/blob/main/RUN/README.md
+- https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
 
 
 

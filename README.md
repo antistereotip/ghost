@@ -9,7 +9,7 @@
 
 <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="300" />
 
-### Start Of Life Ghost Protocol. 
+## Start Of Life Ghost Protocol. 
 
 *Ghost protocol.* 
 *Ghost will start at year 2025 at 13:37. RIP Danilo Bogdanov.*
@@ -17,7 +17,7 @@
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*
 
-### We will rule the world.
+## We will rule the world.
 
 <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
 
@@ -79,7 +79,7 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
 </p>
 
-### Development.
+## Development.
 
 - Development have 2 segments: Socket I/O, Low/High Level Applications.
 - Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.

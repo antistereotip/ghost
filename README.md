@@ -22,7 +22,7 @@
 <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
 
 ## Ghost Documentation.
-### Please read all REDME.md files (Links on bottom of document).
+### Please read all REDME.md files (Documentation links on bottom of document).
 - RUN - Execute Ghost Logic (README.md)
 - SOCIETY - Community Logic (README.md)
 - GATES - Logic Gates, Self and Combined (README.md)

@@ -2,11 +2,17 @@
 include [RUN/parameters];
 
 #---arrays---#
-`$matrix->map = array( array( "0000" => "data1", "1111" => "data2", "0110" => "data3", "1001" => "data4" ), 
-                      array( "1001" => "data5", "1111" => "data6", "0110" => "data7", "0000" => "data8" ), 
-                      array( "0000" => "data9", "1001" => "data10", "1111" => "data11", "0110" => "data12" ) );`
+$ghost->run = array[ array[ "0000" => "data1", "1111" => "data2", "0110" => "data3", "1001" => "data4" ], 
+                     array[ "1001" => "data5", "1111" => "data6", "0110" => "data7", "0000" => "data8" ], 
+                     array[ "0000" => "data9", "1001" => "data10", "1111" => "data11", "0110" => "data12" ] ];
 
-
+#---parse arrays---#
+foreach [$ghost->run as $ghs] { 
+        print $ghs[0000];
+        print $ghs[1111]; 
+        print $ghs[1001]; 
+        print $ghs[0110];
+} 
 
 #---make fnc for executing env---#
 fnc ghost[parameters/n] {
@@ -27,6 +33,4 @@ $ghost->update_system[];
 $ghost->take_ownership[folder];
 $ghost->buy_eternity[integer];
 $ghost->sell_eternity[integer];
-
-
 

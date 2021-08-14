@@ -217,7 +217,7 @@ RUN part of Repo must have quantum power in processing.
 - To znači da krajnji korisnik upravlja svojim podacima. Kao opciju navodi potpuno brisanje.
 - Matematičke probleme generisane slučajnim procesima korisnici rešavaju pokretanjem algoritma uključujući Ghost API.
 
-### Slucajna multidimenziona matrica sa core nibble-ovima
+### Slucajna multidimenziona matrica sa core nibble-ovima (Nizovi na srpskom imaju drugu logiku)
 
 <pre>
 `$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 

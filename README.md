@@ -78,7 +78,7 @@ TODO:
 ### Development
 
 - Development have 2 segments: Socket I/O, Low/High Level Applications.
-- Please contribute to this project and go deep into Socket Programming and Low/High Programming.
+- Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
 ### Important links

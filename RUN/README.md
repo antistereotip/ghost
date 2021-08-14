@@ -121,26 +121,26 @@ RUN part of Repo must have quantum power in processing.
   </tr>
   <tr>
     <td>BASH</td>
-    <td>ENV Scripting</td>
-    <td>BOFH Excuses</td>
+    <td>ENV Programming</td>
+    <td>Born Again Shell</td>
     <th>0110</th>
   </tr>
   <tr>
     <td>GHOST</td>
-    <td>Low Level Scripting</td>
+    <td>Low Level Programming</td>
     <td>BOFH Excuses</td>
     <th>0000</th>
   </tr>
   <tr>
     <td>GO</td>
-    <td>High Level Scripting</td>
-    <td>BOFH Excuses</td>
+    <td>High Level Programming</td>
+    <td>ANSI C of 21 Century</td>
     <th>1111</th>
   </tr>
   <tr>
     <td>Python</td>
-    <td>High Level Scripting</td>
-    <td>BOFH Excuses</td>
+    <td>High Level Programming</td>
+    <td>Monthy Python Show</td>
     <th>0000</th>
   </tr>
 </table>

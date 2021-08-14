@@ -169,7 +169,7 @@ RUN part of Repo must have quantum power in processing.
 
 > Nije znanje znanje znati, već je znanje znanje dati. "JJZmaj"
 
-## DOKUMENTACIJA NA SRPSKOM
+## Dokumentacija na Srpskom jeziku
 
 ### Uvod
 - Razvoj treba da ide u pravcu velikih podataka i algoritama koje ti podaci rešavaju.

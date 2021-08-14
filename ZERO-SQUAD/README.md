@@ -30,7 +30,7 @@
 
 - The Zero Detachment was determined to have 1111 members. Let's say that member 0211 is not in nibble logic, he is actually two hundred and eleven (211) member out of a total of one thousand one hundred and eleven (1111) members. 1111 members receive commands from 16 members that are in nibble logic. And 12 members out of 16 get commands of 4 members, while zero member or 0000 makes the final decision. Fisrt member of squad 0000 and last member 1111 have the same priority. They start and stop sircle of command. It's ghost ciclus of life. The detachment aims to decrypt everything that is encrypted. All top secret labels should become public after performing the tasks of the zero detachment. More precisely, everything that is hidden in the encryption should become public. 
 
-### Random multidimension matrix with core nibbles
+### Random multidimension matrix with core nibbles.
 
 <pre>
 `$ghost->random = array[ array[ "0000" => "1001", "1111" => "0110", "0110" => "0000", "1001" => "1111" ], 
@@ -143,7 +143,7 @@
 
 - 0011000000aaaa000bbb0000000000ccc00000000000000000ffff000011110000111101010011110010010110
 
-## Logic Gates
+## Logic Gates.
 
 *hexadecimal scheme combined with logic gates.*
 
@@ -153,7 +153,7 @@
 - Additional protection is provided by interference, which is caused by voltage variations.
 - https://github.com/antistereotip/ghost/tree/main/GATES
 
-## Funny Bit, Nibble and Byte
+## Funny Bit, Nibble and Byte.
 
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/pics/bitnibblebyte.png" width="300" />
@@ -286,7 +286,7 @@
 
 *Almost The end.*
 
-## Thats All Folks
+## Thats All Folks.
 ### Kingest Regards. Admin.
 
 

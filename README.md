@@ -55,6 +55,8 @@ TODO:
 - Functions to randomize mixed logic
 - Functions to separate nibble folders
 - Functions to generate universal map key
+- Function to encrypt
+- Function to decrypt
 - Functions for playing with pointers
 - Functions for socket
 - Functions for TCP/IP logic

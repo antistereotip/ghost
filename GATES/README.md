@@ -46,3 +46,6 @@
 - 0-1-1
 - 1-0-1
 - 1-1-0
+
+## Main documentation
+- https://github.com/antistereotip/ghost/blob/main/README.md

@@ -284,6 +284,9 @@
 - The one who dies with the most Toys wins.
 - In the woods he goes home looking?
 
+## Main documentation
+- https://github.com/antistereotip/ghost/blob/main/README.md
+
 *Almost The end.*
 
 ## Thats All Folks.

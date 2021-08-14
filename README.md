@@ -93,10 +93,10 @@ TODO:
 ### You can not start without reading this documents.
 - https://github.com/antistereotip/ghost
 - https://github.com/antistereotip/ghost/blob/main/README.md
-- https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
 - https://github.com/antistereotip/ghost/blob/main/GATES/README.md
 - https://github.com/antistereotip/ghost/blob/main/RUN/README.md
 - https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
+- https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
 
 
 

@@ -1,4 +1,6 @@
-## Ghost Protocol. Coding name: 1337. RIP Danilo Bogdanov.
+## Ghost Protocol. 
+### Coding name: 1337. 
+#### RIP Danilo Bogdanov.
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />

@@ -1,5 +1,5 @@
 #---ghost language example---#
-include [RUN/parameters];
+include [RUN/parameters/core/4];
 
 #---arrays---#
 $ghost->run = array[ array[ "0000" => "data1", "1111" => "data2", "0110" => "data3", "1001" => "data4" ], 

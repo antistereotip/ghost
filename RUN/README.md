@@ -142,6 +142,8 @@ RUN part of Repo must have quantum power in processing.
 
 ## SRPSKI
 
+> Nije znanje znanje znati, već je znanje znanje dati. "JJZmaj"
+
 ## DOKUMENTACIJA NA SRPSKOM
 
 ### Uvod

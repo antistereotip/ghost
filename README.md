@@ -61,11 +61,6 @@ TODO:
 | ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
 | y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
 
-### C provides six operators for bit manipulation: 
-<p align="left">
-  <img src="https://github.com/antistereotip/ghost/blob/main/DATA/c-logic-operaters.png"  width="300"/>
-</p>
-
 ### Cicada 3301
 
 - Please solve the infinitive puzzle.

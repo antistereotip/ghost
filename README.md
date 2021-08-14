@@ -15,12 +15,12 @@
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*
 
-### We will rule the world
+### We will rule the world.
 
 <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
 
-## Ghost Documentation
-### Please read all REDME.md files (Links on bottom of document)
+## Ghost Documentation.
+### Please read all REDME.md files (Links on bottom of document).
 - RUN - Execute Ghost Logic (README.md)
 - SOCIETY - Community Logic (README.md)
 - GATES - Logic Gates, Self and Combined (README.md)
@@ -43,7 +43,7 @@
 - Folder 32 - Eight Nibbles Value
 - Folder ZERO-SQUAD - Executive Team (README.md)
 
-## Develop Functions and Procedures
+## Develop Functions and Procedures.
 TODO:
 - Functions to parse nibbles
 - Functions to generate combination of nibble and logic gate
@@ -57,14 +57,14 @@ TODO:
 - Functions for API logic
 - Functions for including API
 
-## Representation of binary
+## Representation of binary.
 | Syntax               |   Description     |                       Details                         |
 | :---                 |      :----:       |                                                  ---: |
 | 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (+ = have electric current, - = no electric current)  |
 | ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
 | y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
 
-### Cicada 3301
+### Cicada 3301.
 
 - Please solve the infinitive puzzle.
 - Down the rabbit hole.
@@ -77,13 +77,13 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
 </p>
 
-### Development
+### Development.
 
 - Development have 2 segments: Socket I/O, Low/High Level Applications.
 - Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
-### Important links
+### Important links.
 - https://github.com/antistereotip/ghost
 - https://github.com/antistereotip/ghost/blob/main/README.md
 - https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md

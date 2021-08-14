@@ -18,9 +18,10 @@
 <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/uspeh.jpg" width="400"/>
 
 ## Ghost Documentation
-- RUN - Execute Ghost Logic
-- SOCIETY - Community Logic
-- GATES - Logic Gates, Self and Combined
+### Please read all REDME.md files
+- RUN - Execute Ghost Logic (README.md)
+- SOCIETY - Community Logic (README.md)
+- GATES - Logic Gates, Self and Combined (README.md)
 - Logic_Gates (NOR, XOR, NAND) - Key Map Logic
 - NOR (0011-0101=1000)
 - XOR (0011-0101=0110)
@@ -38,7 +39,7 @@
 - Folder 24 - Six Nibbles Value
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
-- Folder ZERO-SQUAD - Executive Team
+- Folder ZERO-SQUAD - Executive Team (README.md)
 
 ## Develop Functions and Procedures
 TODO:

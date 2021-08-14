@@ -85,7 +85,7 @@ TODO:
 - Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
-### Important links.
+### Important documentation links.
 - https://github.com/antistereotip/ghost
 - https://github.com/antistereotip/ghost/blob/main/README.md
 - https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md

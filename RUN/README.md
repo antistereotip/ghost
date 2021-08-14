@@ -320,7 +320,7 @@ RUN part of Repo must have quantum power in processing.
 - Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki napredak za čovečanstvo. FULLSTOP.
 - RUN deo Repozitorijuma mora imati kvantnu snagu procesuiranja kao i kvantne procese.
 
-## Main documentation
+## Dokumentacija
 - https://github.com/antistereotip/ghost/blob/main/README.md
 
 ### Pratite belog zeca

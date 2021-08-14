@@ -19,26 +19,30 @@
 
 ## Syntax of matrices
 ##### Array:
-`$matrix->map = array( 
-	array(
+
+<pre>
+`$ghost->map = array[ 
+	array[
 	"0000" => "data1",
 	"1111" => "data2",
 	"0110" => "data3",
 	"1001" => "data4"
-	),
-	array(
+	],
+	array[
 	"1001" => "data5",
 	"1111" => "data6",
 	"0110" => "data7",
 	"0000" => "data8"
-	),
-	array(
+	],
+	array[
 	"0000" => "data9",
 	"1001" => "data10",
 	"1111" => "data11",
 	"0110" => "data12"
-	)
-);`
+	]
+];`
+</pre>
+
 - It will be a multidimensional matrix that will carry process records over the data.
 - It will randomly map one of the core users to a random big data container. Its 3 x 4 combinations.
 - If all random logic is transferred to 1111 members, and if all 1111 are mapped to big data, then random combinations of theses are also predictable. 
@@ -167,26 +171,29 @@ RUN part of Repo must have quantum power in processing.
 
 ## Syntaksa matrice
 ##### Niz:
-`$matrix->map = array( 
-	array(
+
+<pre>
+`$ghost->map = array[ 
+	array[
 	"0000" => "data1",
 	"1111" => "data2",
 	"0110" => "data3",
 	"1001" => "data4"
-	),
-	array(
+	],
+	array[
 	"1001" => "data5",
 	"1111" => "data6",
 	"0110" => "data7",
 	"0000" => "data8"
-	),
-	array(
+	],
+	array[
 	"0000" => "data9",
 	"1001" => "data10",
 	"1111" => "data11",
 	"0110" => "data12"
-	)
-);`
+	]
+];`
+</pre>
 
 - To će biti višedimenzionalna matrica koja će nositi zapise procesa preko podataka.
 - On će nasumično preslikati jednog od osnovnih korisnika u slučajni kontejner velikih podataka. Njegove 3 x 4 kombinacije.

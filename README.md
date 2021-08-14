@@ -7,7 +7,7 @@
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-##### 📱 Encrypted: threewhiterabbits@protonmail.com
+##### 📱 Encrypted e-mail: threewhiterabbits@protonmail.com
 
 <img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="300" />
 

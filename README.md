@@ -92,6 +92,7 @@ TODO:
 ### Our way or highway
 <pre>
 XOR->NOR->NAND
+4 8 12 16 20 24 28 32
 </pre>
 
 ## Important documentation links:

@@ -94,6 +94,9 @@ TODO:
 XOR->NOR->NAND
 4 8 12 16 20 24 28 32
 32 28 24 20 16 12 8 4
+NAND->NOR->XOR
+32 28 24 20 16 12 8 4
+4 8 12 16 20 24 28 32
 </pre>
 
 ## Important documentation links:

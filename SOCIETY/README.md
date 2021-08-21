@@ -3,7 +3,8 @@
 Society is a set of people, who have the same goal and vision. We work together 
 on amazing projects as an open source team. Morality and ethics come first. Our 
 goal is to unite whitehat hackers and create a community that will contribute 
-to the progress of humanity. Touch the future.
+to the progress of humanity. Society should be resistant to this dirty way of 
+using the network. Touch the future.
 
 ## What we do ?
 

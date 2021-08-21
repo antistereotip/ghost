@@ -12,7 +12,6 @@ using the network. Touch the future.
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/Yrt4QacOulk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Cicada 3301 Puzzle
 

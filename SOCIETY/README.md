@@ -8,6 +8,11 @@ using the network. Touch the future.
 
 ## What we do ?
 
+- We serve humans concepts and content. 
+- We serve to the people.
+- We learn and research.
+- We are creative.
+
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>

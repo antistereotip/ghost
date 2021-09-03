@@ -163,7 +163,7 @@ RUN part of Repo must have quantum power in processing.
 <img src ="https://github.com/antistereotip/ghost/blob/main/SOCIETY/whiterabbit.gif" width="200" />
 </p>
 
-### ----------------------------------------------------------------------------------------------------------------------------------------------------- ###
+### ------------------------------------------------------------------------------ ###
 
 ## SRPSKI
 

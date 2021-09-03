@@ -181,7 +181,7 @@ RUN part of Repo must have quantum power in processing.
 - Telnet pristup osnovnom sistemu pripravnika, potpuno otvoren izvor za osnovni tim (4 nibble-a - 0000, 1111, 1001, 0110).
 - Algoritam će biti napisan u ANSI C. Taj algoritam će raditi sa strukturama velikih podataka i složenošću. Samo osnovni tim će biti korisnici sistema i algoritma.
 - Osnovni korisnici (0000, 1111, 1001, 0110) će komandovati svim ostalim 1111 softverskim inženjerima. Svi ostali, osim tima Core, imat će veze i njihovi će se podaci filtrirati i potpuno dešifrirati. Odličan tim od 1111 ljudi veoma je složen kada svaki korisnik može započeti [n] procese na višem nivou. GO je ANSI C 21. veka :) Neka bude GO :)
-- 
+
 ### Moja definicija BIG DATA:
 - Veliki podaci mogu biti 1MB, 1PB ili 1ZB ili 1nB.
 - U zavisnosti od složenosti i sadržaja samih podataka, bez obzira koliko oni bili, ponekad je teže rešiti 1MG koda kvaliteta, minimiziranog i složenog u isto vreme, nego rukovati sa 50 PB filmova na orkestriranim serverima.

@@ -16,7 +16,7 @@
 *Ghost protocol.* 
 *Ghost will start at 31.08.2025 at 13:37 PM. RIP Danilo Bogdanov.*
 *The first invisible protocol in the history of the Internet.*
-*Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
+*Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.ghs).*
 *Fasten your seat belt, let's take off...*
 
 ## We will rule the world.

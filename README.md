@@ -14,7 +14,7 @@
 ## Start Of Life Ghost Protocol. 
 
 *Ghost protocol.* 
-*Ghost will start at year 2025 at 13:37. RIP Danilo Bogdanov.*
+*Ghost will start at 31.08.2025 at 13:37 PM. RIP Danilo Bogdanov.*
 *The first invisible protocol in the history of the Internet.*
 *Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.gh).*
 *Fasten your seat belt, let's take off...*
@@ -66,7 +66,7 @@ TODO:
 ## Representation of binary.
 | Syntax               |   Description     |                       Details                         |
 | :---                 |      :----:       |                                                  ---: |
-| 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (+ = have electric current, - = no electric current)  |
+| 1	0	1	0	0	1	1	0	1	1  |  (1 = +, 0 = -)   | (1 = have electric current, 0 = no electric current)  |
 | ☒	☐	☒	☐	☐	☒	☒	☐	☒	☒  |  (☒ = +, ☐ = -)   | (☒ = have electric current, ☐ = no electric current)  |
 | y	n	y	n	n	y	y	n	y	y  |  (y = +, n = -)   | (y = have electric current, n = no electric current)  |
 

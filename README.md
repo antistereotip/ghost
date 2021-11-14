@@ -89,7 +89,7 @@ TODO:
 - Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.
 - Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
 
-### Our way or highway
+### Our way or the highway
 <pre>
 XOR->NOR->NAND
 4 8 12 16 20 24 28 32

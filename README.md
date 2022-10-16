@@ -158,12 +158,12 @@ Source: https://github.com/antistereotip/NULL
 
 ## Important documentation links:
 ### You can not start without reading this documents.
-- https://github.com/antistereotip/ghost
-- https://github.com/antistereotip/ghost/blob/main/README.md
-- https://github.com/antistereotip/ghost/blob/main/GATES/README.md
-- https://github.com/antistereotip/ghost/blob/main/RUN/README.md
-- https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
-- https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
+0. https://github.com/antistereotip/ghost
+1. https://github.com/antistereotip/ghost/blob/main/README.md
+2. https://github.com/antistereotip/ghost/blob/main/GATES/README.md
+3. https://github.com/antistereotip/ghost/blob/main/RUN/README.md
+4. https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
+5. https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
 
 
 #### Find the Ghost. Under is fake Ghost Logotip. Be Carefull !!!

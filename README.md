@@ -99,6 +99,15 @@ NAND->NOR->XOR
 4 8 12 16 20 24 28 32
 </pre>
 
+Examples
+<pre>
+run(ghost.gpfs) - [parameters: initial, start, bootloader]
+run(app.store) - [parameters: store, buy, sell, load]
+run(buy.eth) - [parameters: store, buy, crypto, load]
+run(sell.btc) - [parameters: store, sell, crypto, load]
+run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
+</pre>
+
 ## Important documentation links:
 ### You can not start without reading this documents.
 - https://github.com/antistereotip/ghost

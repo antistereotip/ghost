@@ -1,9 +1,9 @@
 //GHOST
-run(app) - 4 Nibbles
-run(store) - 4 Nibbles
-run(game) - 4 Nibbles
-run(buy.btc) - 4 Nibbles
-run(sell.eth) - 4 Nibbles
-run(gta5) - 4 Nibbles
-run(tetris) - 4 Nibbles
-run(bbs) - 4 Nibbles
+run(app) - Nibble
+run(store) - Nibble
+run(game) - Nibble
+run(buy.btc) - Nibble
+run(sell.eth) - Nibble
+run(gta5) - Nibble
+run(tetris) - Nibble
+run(bbs) - Nibble

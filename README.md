@@ -16,7 +16,7 @@
 *Ghost protocol.* 
 *Ghost will start at 31.08.2025 at 13:37 PM. RIP Danilo Bogdanov.*
 *The first invisible protocol in the history of the Internet.*
-*Idea is also to make Ghost Programming Language Feature for Protocol (gplfp.ghs).*
+*Idea is also to make Ghost Programming Language Feature for Protocol (null.gpfs).*
 *Fasten your seat belt, let's take off...*
 
 ## We will rule the world.
@@ -62,6 +62,9 @@ TODO:
 - Functions for TCP/IP logic
 - Functions for API logic
 - Functions for including API
+- Functions to Reversible computing
+- Functions to CMOS
+- Fuctions to Integral Circuit 
 
 ## Representation of binary.
 | Syntax               |   Description     |                       Details                         |

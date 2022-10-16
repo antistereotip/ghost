@@ -103,6 +103,8 @@ TODO:
 ### Our way or the highway
 <pre>
 //GHOST
+gates.gpfs
+----------
 XOR->NOR->NAND
 4 8 12 16 20 24 28 32
 32 28 24 20 16 12 8 4

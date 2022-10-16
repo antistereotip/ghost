@@ -75,7 +75,7 @@ TODO:
 
 ### Cicada 3301.
 
-- Please solve the infinitive puzzle... (Serbian: Beli zec je potražio utočište u jednoj pokrajini u centru Srbije jer je bio progonjen od strane blizanaca. Prica se da je beli zec sa sobom poneo svesku i beskonačnu olovku da upisuje svaki fajl u beskonačnu svesku. Beli zec je pronašao način kako da putem teorije Maksvelovog demona uspe da razreši misteriju reversibilnih procesa. Shvatio je da teorija Maksvelovog demona prkosi svim zakonima termodinamike i na taj način sebi obezbedio makar pokušaj sa beskonačnom sveskom i olovkom koja ne prestaje da radi. Ukoliko beli zec pronađe sledeću zagonetku cicade 3301 to bi značilo da je jedan zadatak rešen i da bi sve što je moguće dekriptovati smestiti u jednu kofu gde bi se proces vratio u nazad.)
+- Please solve the infinitive puzzle... (Serbian: Beli zec je potražio utočište u jednoj pokrajini u centru Srbije jer je bio progonjen od strane blizanaca. Priča se da je beli zec sa sobom poneo beskonačnu svesku i beskonačnu olovku da upisuje svaki fajl u taj pribor. Beli zec je pronašao način kako da putem teorije Maksvelovog demona uspe da razreši misteriju reversibilnih procesa. Shvatio je da teorija Maksvelovog demona prkosi svim zakonima termodinamike i na taj način sebi obezbedio makar pokušaj sa beskonačnom sveskom i olovkom koja ne prestaje da radi. Ukoliko beli zec pronađe sledeću zagonetku cicade 3301 to bi značilo da je jedan zadatak rešen i da bi sve što je moguće dekriptovati smestiti u jednu kofu gde bi se proces vratio u nazad.)
 - Down the rabbit hole.
 - Please follow instructions.
 - Please be gentle to my code.

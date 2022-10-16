@@ -1,4 +1,4 @@
 //NULL
-run(form.html)
-run(notify.php)
-run(email-antistereotip-net.txt, params: open, write, close)
+run(form.html.gpfs)
+run(notify.php.gpfs)
+run(email-antistereotip-net.txt.gpfs, params: open, write, close)

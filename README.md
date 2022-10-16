@@ -108,6 +108,22 @@ run(sell.btc) - [parameters: store, sell, crypto, load]
 run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 </pre>
 
+#### Linear Regression
+<pre>
+//Null
+X = RealDistribution('platforma1', [-20, 60])
+Y = RealDistribution('platforma2', 1.5)
+f(x) = 3*x/20 + 5
+xvals = [X.get_random_element() for _ in range(100)]
+data = [(x, f(x) + Y.get_random_element()) for x in xvals]
+m, b = var('m b')
+g(x) = m*x + b
+g(x) = g(x).subs(find_fit(data, g, solution_dict=True))
+p = list_plot(data) + plot(g, (x, -20, 60), color='red')
+p.save('linear_regression.svg')
+</pre>
+Source: https://github.com/antistereotip/NULL
+
 ## Important documentation links:
 ### You can not start without reading this documents.
 - https://github.com/antistereotip/ghost

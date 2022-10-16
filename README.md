@@ -9,7 +9,7 @@
 
 ##### 📱 Encrypted e-mail: threewhiterabbits@protonmail.com
 
-<img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="300" />
+<img src="https://github.com/antistereotip/ghost/blob/main/DATA/Ghost.png" width="400" />
 
 ## Start Of Life Ghost Protocol. 
 

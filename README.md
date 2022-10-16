@@ -121,7 +121,7 @@ run(sell.btc) - [parameters: store, sell, crypto, load]
 run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 </pre>
 
-#### Linear Regression
+#### Linear Regression, abstraction of coding.
 <pre>
 //GHOST //Null
 X = RealDistribution('platform1', [-20, 60])

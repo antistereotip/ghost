@@ -52,7 +52,7 @@ mail($email, "Automatska poruka", $poruka);
 $porukameni = "Neko sa e-adresom ".$email." se upravo prijavio za obaveštenja";
 
 // Posalji email na admin adresu
-mail("milutingavrilovic@gmail.com", "Automatska poruka adminu", $porukameni);
+mail("mailadresa@mail.com", "Automatska poruka adminu", $porukameni);
 
 ?>
 

@@ -123,6 +123,13 @@ run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 
 #### Linear Regression, abstraction of coding.
 <pre>
+app.gpfs
+--------
+Super easy and logical syntax
+--------
+run(store, game, sell.btc, buy.eth, game.gta5)
+</pre>
+<pre>
 //GHOST //Null
 X = RealDistribution('platform1', [-20, 60])
 Y = RealDistribution('platform2', 1.5)
@@ -136,6 +143,9 @@ p = list_plot(data) + plot(g, (x, -20, 60), color='red')
 p.save('linear_regression.svg')
 supports.transform=supports('platform1');
 supports.transition=supports('platform2');
+run(X)
+run(Y)
+run(app.gpfs)
 </pre>
 Source: https://github.com/antistereotip/NULL
 

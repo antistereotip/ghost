@@ -50,6 +50,7 @@ https://usk.rs/ng1np/ - This is just a simple engine UP, written in PHP.
 - Folder 24 - Six Nibbles Value
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
+- Folder 0 - 0 Nibbles Value (README.md - 6)
                                                                                           
 
 
@@ -164,6 +165,7 @@ Source: https://github.com/antistereotip/NULL
 3. https://github.com/antistereotip/ghost/blob/main/RUN/README.md
 4. https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
 5. https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
+6. https://github.com/antistereotip/ghost/blob/main/0/README.md
 
 
 #### Find the Ghost. Under is fake Ghost Logotip. Be Carefull !!!

@@ -49,7 +49,7 @@ https://usk.rs/ghost/ - This is just gif
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
                                                                                           
-<img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png" width="100" />
+
 
 ## Develop Functions and Procedures.
 TODO:
@@ -162,6 +162,10 @@ Source: https://github.com/antistereotip/NULL
 - https://github.com/antistereotip/ghost/blob/main/RUN/README.md
 - https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
 - https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
+
+
+### Find the Ghost. Under is fake Ghost Logotip. Be Carefull
+<img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png" width="100" />
 
 
 

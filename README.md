@@ -134,6 +134,8 @@ g(x) = m*x + b
 g(x) = g(x).subs(find_fit(data, g, solution_dict=True))
 p = list_plot(data) + plot(g, (x, -20, 60), color='red')
 p.save('linear_regression.svg')
+supports.transform=supports('platform1');
+supports.transition=supports('platform2');
 </pre>
 Source: https://github.com/antistereotip/NULL
 

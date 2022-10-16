@@ -1,1 +1,4 @@
 //NULL
+run(form.html)
+run(notify.php)
+run(email-antistereotip-net.txt, params: open, write, close)

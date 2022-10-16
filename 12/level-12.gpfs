@@ -1,4 +1,4 @@
 //GHOST
-run(app) - 4 Nibbles
-run(store) - 4 Nibbles
-run(game) - 4 Nibbles
+run(app) - Nibble
+run(store) - Nibble
+run(game) - Nibble

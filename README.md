@@ -134,8 +134,8 @@ run(store, game, sell.btc, buy.eth, game.gta5)
 </pre>
 <pre>
 //GHOST 
-linear_regression
------------------
+linear_regression.gpfs
+----------------------
 X = RealDistribution('platform1', [-20, 60])
 Y = RealDistribution('platform2', 1.5)
 f(x) = 3*x/20 + 5

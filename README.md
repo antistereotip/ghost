@@ -111,8 +111,8 @@ run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 #### Linear Regression
 <pre>
 //Null
-X = RealDistribution('platforma1', [-20, 60])
-Y = RealDistribution('platforma2', 1.5)
+X = RealDistribution('platform1', [-20, 60])
+Y = RealDistribution('platform2', 1.5)
 f(x) = 3*x/20 + 5
 xvals = [X.get_random_element() for _ in range(100)]
 data = [(x, f(x) + Y.get_random_element()) for x in xvals]

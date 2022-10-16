@@ -25,9 +25,12 @@ https://usk.rs/ghost/
 
 ## Ghost Documentation.
 ### Please read all REDME.md files (Documentation links on bottom of document).
-- RUN - Execute Ghost Logic (README.md)
-- SOCIETY - Community Logic (README.md)
-- GATES - Logic Gates, Self and Combined (README.md)
+- Primary Documantation (README.md - 0)
+- All Documantation (README.md - 1)
+- GATES - Logic Gates, Self and Combined (README.md - 2)
+- RUN - Execute Ghost Logic (README.md - 3)
+- SOCIETY - Community Logic (README.md - 4)
+- Folder ZERO-SQUAD - Executive Team (README.md - 5)
 - Logic_Gates (NOR, XOR, NAND) - Key Map Logic
 - NOR (0011-0101=1000)
 - XOR (0011-0101=0110)
@@ -45,7 +48,7 @@ https://usk.rs/ghost/
 - Folder 24 - Six Nibbles Value
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
-- Folder ZERO-SQUAD - Executive Team (README.md)
+
 
 ## Develop Functions and Procedures.
 TODO:
@@ -92,7 +95,7 @@ TODO:
 
 - Development have 2 segments: Socket I/O, Low/High Level Applications.
 - Please contribute to this project and go deep into Socket Programming and Low/High Level Programming.
-- Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np
+- Ghost represented in web will be in frames of engine up-a: https://github.com/antistereotip/ng1np and Null project https://github.com/antistereotip/NULL
 
 ### Our way or the highway
 <pre>
@@ -131,12 +134,12 @@ Source: https://github.com/antistereotip/NULL
 
 ## Important documentation links:
 ### You can not start without reading this documents.
-- https://github.com/antistereotip/ghost
-- https://github.com/antistereotip/ghost/blob/main/README.md
-- https://github.com/antistereotip/ghost/blob/main/GATES/README.md
-- https://github.com/antistereotip/ghost/blob/main/RUN/README.md
-- https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
-- https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
+- 0. https://github.com/antistereotip/ghost
+- 1. https://github.com/antistereotip/ghost/blob/main/README.md
+- 2. https://github.com/antistereotip/ghost/blob/main/GATES/README.md
+- 3. https://github.com/antistereotip/ghost/blob/main/RUN/README.md
+- 4. https://github.com/antistereotip/ghost/blob/main/SOCIETY/README.md
+- 5. https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
 
 
 

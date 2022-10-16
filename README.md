@@ -164,7 +164,7 @@ Source: https://github.com/antistereotip/NULL
 - https://github.com/antistereotip/ghost/blob/main/ZERO-SQUAD/README.md
 
 
-### Find the Ghost. Under is fake Ghost Logotip. Be Carefull
+#### Find the Ghost. Under is fake Ghost Logotip. Be Carefull !!!
 <img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png" width="100" />
 
 

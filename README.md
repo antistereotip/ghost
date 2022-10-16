@@ -99,6 +99,7 @@ TODO:
 
 ### Our way or the highway
 <pre>
+//GHOST
 XOR->NOR->NAND
 4 8 12 16 20 24 28 32
 32 28 24 20 16 12 8 4
@@ -109,6 +110,7 @@ NAND->NOR->XOR
 
 ### Examples of starting apps:
 <pre>
+//GHOST
 run(ghost.gpfs) - [parameters: initial, start, bootloader]
 run(app.store) - [parameters: store, buy, sell, load]
 run(buy.eth) - [parameters: store, buy, crypto, load]
@@ -118,7 +120,7 @@ run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 
 #### Linear Regression
 <pre>
-//Null
+//GHOST //Null
 X = RealDistribution('platform1', [-20, 60])
 Y = RealDistribution('platform2', 1.5)
 f(x) = 3*x/20 + 5

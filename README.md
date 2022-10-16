@@ -141,16 +141,16 @@ run(store, game, sell.btc, buy.eth, game.gta5)
 //GHOST 
 linear_regression.gpfs
 ----------------------
-X = RealDistribution('uniform', [-20, 60])
-Y = RealDistribution('gaussian', 1.5)
+X = run('app', [-20, 60])
+Y = run('app.store', 1.5)
 f(x) = 3*x/20 + 5
-xvals = [X.get_random_element() for _ in range(100)]
-data = [(x, f(x) + Y.get_random_element()) for x in xvals]
+random = [X.get_random_element() for _ in range(100)]
+data = [(x, f(x) + Y.get_random_element()) for x in random]
 m, b = var('m b')
-g(x) = m*x + b
-g(x) = g(x).subs(find_fit(data, g, solution_dict=True))
-p = list_plot(data) + plot(g, (x, -20, 60), color='red')
-p.save('linear_regression.svg')
+run(x) = m*x + b
+run(x) = g(x).subs(find_fit(data, g, solution_dict=True))
+p = run(data) + plot(g, (x, -20, 60), color='red')
+p.save('linear_regression.gpfs')
 run(app.gpfs)
 run(null.gpfs)
 </pre>

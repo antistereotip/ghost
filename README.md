@@ -2,7 +2,7 @@
 - https://usk.rs/matematika/
 ### Ghost Protocol. First invisible protocol in history of network.
 - https://usk.rs/ghost/
-#### Coding name: 1337 :: Login or Die.
+#### Coding name: Ghost 1337 :: Login or Die :: Antistereotip :: Operation Apostols
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />

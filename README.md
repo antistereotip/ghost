@@ -48,8 +48,8 @@ https://usk.rs/ghost/ - This is just gif
 - Folder 24 - Six Nibbles Value
 - Folder 26 - Seven Nibbles Value
 - Folder 32 - Eight Nibbles Value
-
-<img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png width="100"/>
+                                                                                          
+<img src="https://github.com/antistereotip/ghost/blob/main/DATA/ghost-icon.png" width="400" />
 
 ## Develop Functions and Procedures.
 TODO:

@@ -87,6 +87,9 @@ TODO:
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/puzzle.gif" width="300" />
 </p>
 
+- Follow the white rabbit.
+- Alice in wonderland.
+
 <p align="left">
   <img src="https://github.com/antistereotip/ghost/blob/main/SOCIETY/rabbit.jpg" width="300" />
 </p>

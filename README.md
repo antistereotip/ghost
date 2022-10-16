@@ -114,6 +114,8 @@ NAND->NOR->XOR
 ### Examples of starting apps:
 <pre>
 //GHOST
+null.gpfs
+---------
 run(ghost.gpfs) - [parameters: initial, start, bootloader]
 run(app.store) - [parameters: store, buy, sell, load]
 run(buy.eth) - [parameters: store, buy, crypto, load]
@@ -121,7 +123,7 @@ run(sell.btc) - [parameters: store, sell, crypto, load]
 run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 </pre>
 
-#### Linear Regression, abstraction of coding.
+#### Abstraction of coding.
 <pre>
 //GHOST 
 app.gpfs
@@ -147,6 +149,7 @@ supports.transition=supports('platform2');
 run(X)
 run(Y)
 run(app.gpfs)
+run(null.gpfs)
 </pre>
 Source: https://github.com/antistereotip/NULL
 

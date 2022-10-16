@@ -123,6 +123,7 @@ run(gta5.game) - [parameters: gta5 game, streaming, load.graphic, load]
 
 #### Linear Regression, abstraction of coding.
 <pre>
+//GHOST 
 app.gpfs
 --------
 Super easy and logical syntax
@@ -130,7 +131,7 @@ Super easy and logical syntax
 run(store, game, sell.btc, buy.eth, game.gta5)
 </pre>
 <pre>
-//GHOST //Null
+//GHOST 
 X = RealDistribution('platform1', [-20, 60])
 Y = RealDistribution('platform2', 1.5)
 f(x) = 3*x/20 + 5

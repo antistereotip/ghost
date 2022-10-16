@@ -99,7 +99,7 @@ NAND->NOR->XOR
 4 8 12 16 20 24 28 32
 </pre>
 
-Examples
+### Examples of starting apps:
 <pre>
 run(ghost.gpfs) - [parameters: initial, start, bootloader]
 run(app.store) - [parameters: store, buy, sell, load]

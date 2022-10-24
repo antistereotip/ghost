@@ -145,7 +145,7 @@ linear_regression.gpfs
 X = run('app', [-20, 60])
 Y = run('app.store', 1.5)
 f(x) = 3*x/20 + 5
-random = [X.get_random_element() for _ in range(100)]
+random = [X.get_random_element() for _ in range(1337)]
 data = [(x, f(x) + Y.get_random_element()) for x in random]
 m, b = var('m b')
 run(x) = m*x + b

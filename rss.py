@@ -5,10 +5,10 @@ import time
 import feedparser  # We've added this library
 
 # Set server and channel information
-server = "irc.example.com"
+server = "localhost"
 port = 6667
-channel = "#mychannel"
-bot_nickname = "MyBot"
+channel = "#test"
+bot_nickname = "RSS-bot"
 
 # Function to read news from a specified RSS feed
 def read_rss_feed(url, num_items=1):

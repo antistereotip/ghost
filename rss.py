@@ -41,6 +41,11 @@ while True:
     if "PING" in data:
         irc.send(bytes("PONG {}\r\n".format(data.split()[1]), "UTF-8"))
     
+    # Command to greet
+    if "!komande" in data:
+        response = "hello, vreme, rss bbc, rss cnn"
+        irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, response), "UTF-8"))
+    
     # Command to display time
     if "!vreme" in data:
         current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())

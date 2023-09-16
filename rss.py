@@ -2,7 +2,7 @@
 
 import socket
 import time
-import feedparser  # We've added this library
+import feedparser
 
 # Set server and channel information
 server = "localhost"
@@ -43,7 +43,7 @@ while True:
     
     # Command to greet
     if "!komande" in data:
-        response = "hello, vreme, rss bbc, rss cnn"
+        response = "hello, vreme, rss bbc, rss cnn, !github, !help, !quit"
         irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, response), "UTF-8"))
     
     # Command to display time
@@ -60,12 +60,9 @@ while True:
     # Command to read news from BBC
     if "!rss bbc" in data:
         rss_url = "http://feeds.bbci.co.uk/news/rss.xml"
-        
-        # Added the option to read 10 news items
         num_items = 10  # Read the 10 latest news items from BBC
         news_items = read_rss_feed(rss_url, num_items)
         
-        # Sending multiple news items in different messages
         for item in news_items:
             headline = item.title
             description = item.description
@@ -75,14 +72,33 @@ while True:
     # Command to read news from CNN
     if "!rss cnn" in data:
         rss_url = "https://rss.cnn.com/rss/cnn_topstories.rss"
-        
-        # Added the option to read 10 news items
         num_items = 10  # Read the 10 latest news items from CNN
         news_items = read_rss_feed(rss_url, num_items)
         
-        # Sending multiple news items in different messages
         for item in news_items:
             headline = item.title
             description = item.description
             irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, headline), "UTF-8"))
             irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, description), "UTF-8"))
+    
+    # Command to provide GitHub repository link
+    if "!github" in data:
+        response = "GitHub repozitorijum za ovog bota se nalazi na: https://github.com/vaserebot/rss-irc-bot"
+        irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, response), "UTF-8"))
+    
+    # Command to provide help information
+    if "!help" in data:
+        response = "Ovaj bot podržava sledeće komande: "
+        response += "!komande - Prikazuje listu dostupnih komandi, "
+        response += "!vreme - Prikazuje trenutno vreme, "
+        response += "!rss bbc - Čita vesti sa BBC-a, "
+        response += "!rss cnn - Čita vesti sa CNN-a, "
+        response += "!github - Prikazuje link ka GitHub repozitorijumu bota, "
+        response += "!help - Prikazuje ovu pomoć."
+        irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, response), "UTF-8"))
+    
+    # Command to quit and exit the channel
+    if "!quit" in data:
+        irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, "Napuštam kanal. Doviđenja!"), "UTF-8"))
+        irc.send(bytes("QUIT\r\n", "UTF-8"))
+        break

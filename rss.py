@@ -83,7 +83,7 @@ while True:
     
     # Command to provide GitHub repository link
     if "!github" in data:
-        response = "GitHub repozitorijum za ovog bota se nalazi na: https://github.com/vaserebot/rss-irc-bot"
+        response = "GitHub repozitorijum za ovog bota se nalazi na: https://github.com/antistereotip/ghost/"
         irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, response), "UTF-8"))
     
     # Command to provide help information

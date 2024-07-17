@@ -13,4 +13,6 @@ Linearna regresija u ghost protokolu bi trebalo da izvrsava razne predikcione an
 <img src="https://github.com/antistereotip/ghost/blob/main/0/300px-Normdist_regression.png" width="300" alt="regresija">
 
 ## TO DO
-Napraviti algoritam linerane regresije u ANSI C ili PHP ili PYTHON
+> Napraviti algoritam linerane regresije u ANSI C ili PHP ili PYTHON
+> Napraviti jednostavan CMS u PHP 
+

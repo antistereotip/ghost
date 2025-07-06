@@ -17,3 +17,5 @@ tn.write("ls\n")
 tn.write("exit\n")
 
 print tn.read_all()
+
+# telnet

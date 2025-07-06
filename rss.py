@@ -102,3 +102,6 @@ while True:
         irc.send(bytes("PRIVMSG {} :{}\r\n".format(channel, "Napuštam kanal. Doviđenja!"), "UTF-8"))
         irc.send(bytes("QUIT\r\n", "UTF-8"))
         break
+
+
+#rss 

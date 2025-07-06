@@ -1,1 +1,3 @@
 testghst
+
+#protokol-se-ne-moze-istestirati

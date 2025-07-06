@@ -10,4 +10,4 @@ p = list_plot(data) + plot(g, (x, -20, 60), color='red')
 p.save('linear_regression.svg')
 
 
-#test
+# test

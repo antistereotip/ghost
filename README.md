@@ -157,6 +157,576 @@ run(null.gpfs)
 </pre>
 Source: https://github.com/antistereotip/NULL
 
+Pravljenje internet protokola je zapravo kombinacija teorije (definisanje pravila komunikacije) i prakse (implementacija tih pravila u kodu).
+Ako hoćeš, mogu ti objasniti proces od nule do gotovog protokola, korak po korak.
+
+1️⃣ Razumevanje šta je protokol
+
+Internet protokol je skup pravila koja definišu:
+
+Kako se uređaji međusobno povezuju.
+
+Kako se formatiraju i šalju podaci.
+
+Kako se proverava da li su podaci stigli ispravno.
+
+Primeri: HTTP, FTP, SMTP, TCP, UDP.
+
+2️⃣ Odabir sloja u mrežnom modelu
+
+Protokol se obično uklapa u OSI model ili TCP/IP model.
+
+Fizički / Data link sloj – Pravila za kablove, signale, MAC adrese.
+
+Mrežni sloj – Ruting paketa (npr. IP).
+
+Transportni sloj – Kontrola prenosa i grešaka (npr. TCP, UDP).
+
+Aplikativni sloj – Pravila aplikacija (npr. HTTP, DNS).
+
+💡 Većina custom protokola se pravi na aplikativnom sloju, jer se oslanja na postojeće TCP/UDP/IP slojeve.
+
+3️⃣ Definisanje formata poruke
+
+Moraš odrediti:
+
+Zaglavlje (header) – Meta podaci (tip poruke, dužina, checksum…)
+
+Telo (payload) – Stvarni podaci.
+
+Kodiranje – Tekst (UTF-8), binarno, JSON, XML…
+
+Primer jednostavnog formata:
+
+[4 bajta] – tip poruke
+[4 bajta] – veličina
+[x bajtova] – podaci
+
+4️⃣ Pravila komunikacije (state machine)
+
+Moraš odrediti:
+
+Ko započinje vezu (klijent ili server).
+
+Kako izgleda handshake (npr. pozdravna poruka).
+
+Kako se odgovara na zahteve.
+
+Šta se radi kad dođe do greške.
+
+5️⃣ Implementacija
+
+Izaberi transport (TCP ili UDP).
+
+Napiši kod koji šalje i prima poruke po definisanom formatu.
+
+Testiraj na dve mašine ili u virtuelnoj mreži.
+
+Primer mini protokola preko TCP-a u Python-u (aplikativni sloj):
+
+# server.py
+import socket
+
+server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server.bind(("0.0.0.0", 5000))
+server.listen(1)
+
+print("Server čeka konekciju...")
+conn, addr = server.accept()
+print(f"Povezano sa {addr}")
+
+while True:
+    data = conn.recv(1024)
+    if not data:
+        break
+    print("Primljeno:", data.decode())
+    conn.send(b"ACK")  # odgovor
+
+# client.py
+import socket
+
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+client.connect(("127.0.0.1", 5000))
+
+client.send(b"HELLO")
+print("Odgovor servera:", client.recv(1024))
+
+6️⃣ Dokumentacija (specifikacija)
+
+Pravi protokoli (npr. HTTP/2, QUIC) imaju RFC dokument sa:
+
+Detaljnim formatom poruka.
+
+Sekvencama komunikacije.
+
+Primerima.
+
+7️⃣ Standardizacija (opciono)
+
+Ako želiš da protokol postane javni standard:
+
+Predlaže se IETF-u ili drugom telu.
+
+Dobija svoj RFC broj.
+
+Ako želiš, mogu ti napraviti primer potpuno novog internet protokola sa izmišljenim pravilima i formatom, i pokazati kako bi radio u praksi.
+To bi bio baš realističan mini-RFC.
+
+Кажеш:
+moze
+ChatGPT је рекао:
+
+Evo ti primer od nule kako bih napravio jedan izmišljeni internet protokol — pokazaću ti ga kao pravi mini-RFC, sa formatom poruka, pravilima komunikacije i kodom.
+
+📜 RFC-DRAFT: SimpleChat Protocol (SCP)
+1️⃣ Opis
+
+SCP (SimpleChat Protocol) je jednostavan aplikativni protokol za razmenu tekstualnih poruka između klijenta i servera preko TCP-a.
+Cilj je brz tekstualni chat sa minimalnim zaglavljima.
+
+2️⃣ Transport
+
+Transportni sloj: TCP
+
+Port: 5050 (podrazumevani)
+
+3️⃣ Format poruke
+
+Svaka poruka ima binarni format:
+
+Polje	Veličina	Opis
+Version	1 bajt	Verzija protokola (npr. 1)
+Type	1 bajt	Tip poruke (1=MSG, 2=PING, 3=PONG, 4=BYE)
+Length	2 bajta	Dužina payload-a u bajtovima (big endian)
+Payload	N bajtova	Tekstualni sadržaj (UTF-8)
+4️⃣ Pravila komunikacije
+
+Handshake – Klijent šalje PING, server vraća PONG.
+
+Razmena poruka – Klijent i server šalju MSG tip sa tekstom.
+
+Zatvaranje veze – Klijent ili server šalju BYE.
+
+5️⃣ Primer poruke
+
+Poruka „Zdravo“ (MSG tip) u binarnom obliku:
+
+Version: 1         -> 0x01
+Type: MSG (1)      -> 0x01
+Length: 6          -> 0x0006
+Payload: "Zdravo"  -> 0x5A 0x64 0x72 0x61 0x76 0x6F
+
+
+Cela poruka u hex:
+
+01 01 00 06 5A 64 72 61 76 6F
+
+6️⃣ Minimalna implementacija
+
+server.py
+
+import socket, struct
+
+def send_message(conn, mtype, payload):
+    payload_bytes = payload.encode('utf-8')
+    header = struct.pack("!BBH", 1, mtype, len(payload_bytes))
+    conn.sendall(header + payload_bytes)
+
+def recv_message(conn):
+    header = conn.recv(4)
+    if not header: return None, None
+    version, mtype, length = struct.unpack("!BBH", header)
+    payload = conn.recv(length).decode('utf-8')
+    return mtype, payload
+
+server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server.bind(("0.0.0.0", 5050))
+server.listen(1)
+print("SCP Server listening...")
+
+conn, addr = server.accept()
+print(f"Connected by {addr}")
+
+# Handshake
+mtype, payload = recv_message(conn)
+if mtype == 2:  # PING
+    send_message(conn, 3, "PONG")
+
+# Chat loop
+while True:
+    mtype, payload = recv_message(conn)
+    if mtype == 4:  # BYE
+        break
+    print(f"Client: {payload}")
+    send_message(conn, 1, f"Eho: {payload}")
+
+conn.close()
+
+
+client.py
+
+import socket, struct
+
+def send_message(sock, mtype, payload):
+    payload_bytes = payload.encode('utf-8')
+    header = struct.pack("!BBH", 1, mtype, len(payload_bytes))
+    sock.sendall(header + payload_bytes)
+
+def recv_message(sock):
+    header = sock.recv(4)
+    if not header: return None, None
+    version, mtype, length = struct.unpack("!BBH", header)
+    payload = sock.recv(length).decode('utf-8')
+    return mtype, payload
+
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.connect(("127.0.0.1", 5050))
+
+# Handshake
+send_message(sock, 2, "PING")
+mtype, payload = recv_message(sock)
+print("Handshake:", payload)
+
+# Chat
+while True:
+    text = input("Ti: ")
+    send_message(sock, 1, text)
+    mtype, payload = recv_message(sock)
+    print("Server:", payload)
+    if text.lower() == "bye":
+        send_message(sock, 4, "")
+        break
+
+sock.close()
+
+7️⃣ Karakteristike
+
+Prednost: Lako parsiranje (uvek 4 bajta zaglavlja, pa payload).
+
+Nedostatak: Nema enkripciju, nema autentikaciju.
+
+Moguće proširenje: Dodavanje enkripcije (TLS) ili više tipova poruka.
+
+Ako hoćeš, mogu ti napraviti napredniju verziju ovog protokola koja ima autentikaciju i enkripciju poput HTTPS-a, ali jednostavnije.
+To bi već bilo ozbiljnije, ali i dalje ručno razumljivo.
+
+Кажеш:
+moze
+ChatGPT је рекао:
+Размишљао сам 27s
+
+Super — idemo na napredniju varijantu sa TLS enkripcijom i token autentikacijom. Dobićeš mini-RFC i radan primer klijent/server koda u Pythonu.
+
+📜 RFC-DRAFT: Secure SimpleChat Protocol (SCP/2)
+1) Cilj
+
+SCP/2 je aplikativni protokol za chat preko TCP + TLS 1.3.
+Funkcije:
+
+End-to-end enkripcija kanala (TLS).
+
+Login sa korisničkim imenom/lozinkom (unutar TLS).
+
+Kratkoživeći HMAC token za svaku narednu poruku.
+
+Jednostavno binarno uokviravanje (framing).
+
+2) Transport
+
+Sloj: TCP, obavezno TLS.
+
+Port (default): 5443.
+
+Verzija protokola: 2.
+
+3) Tipovi poruka (Type)
+1=AUTH_REQ     (klijent → server)  JSON: {"username","password"}
+2=AUTH_OK      (server → klijent)  JSON: {"token","exp"}
+3=AUTH_FAIL    (server → klijent)  JSON: {"error"}
+4=MSG          (obe strane)        payload = UTF-8 tekst
+5=PING         (obe strane)        payload = ""
+6=PONG         (obe strane)        payload = ""
+7=BYE          (obe strane)        payload = ""
+8=ERROR        (server → klijent)  JSON: {"error"}
+
+4) Okvir (framing) — header + telo
+
+Header (8 bajtova, big-endian / network order):
+
+[1B] Version      (uvek 0x02)
+[1B] Type         (vidi gore)
+[2B] TokenLen     (0..65535)
+[4B] PayloadLen   (0..4,294,967,295)
+
+
+Body:
+
+[TokenLen bajtova]  Token (ASCII/base64url); 0 ako nije potreban (AUTH_REQ, PING/PONG početni)
+[PayloadLen bajtova] Payload (UTF-8 ili binarno po tipu)
+
+
+Token obavezan za sve poruke posle uspešnog logina (MSG/PING/PONG/itd.).
+Server odbija poruke sa nevažećim ili isteklim tokenom (8=ERROR).
+
+5) Tok komunikacije (state machine)
+
+TLS handshake (kanal je šifrovan).
+
+Klijent šalje AUTH_REQ (tokenlen=0) sa JSON kredencijalima u payload-u.
+
+Server vraća AUTH_OK (tokenlen=0) sa JSON-om: {"token":"…","exp": unix_ts}
+– Token je HMAC-SHA256 potpis: base64url(HMAC(server_secret, username|exp|random)).
+– Tipičan TTL: 10 min.
+
+Sve naredne poruke (npr. MSG) nose token u polju Token.
+
+Zatvaranje: bilo ko šalje BYE.
+
+6) Bezbednosne napomene
+
+TLS već obezbeđuje poverljivost i integritet; token služi za autorizaciju na aplikativnom sloju (kratkoživeći, bez ponovnog slanja lozinke).
+
+Za produkciju koristi BCrypt/Argon2 za lozinke i validan CA cert. U primeru ispod, radi jednostavnosti, lozinka je u memoriji, a koristi se samopotpisani sertifikat.
+
+🔐 Sertifikati (lokalno, jednokratno)
+
+Kreiraj samopotpisani sertifikat (za test):
+
+openssl req -x509 -newkey rsa:2048 -keyout key.pem -out cert.pem -days 365 -nodes -subj "/CN=localhost"
+
+
+To će napraviti cert.pem (javni) i key.pem (privatni). Drži ih pored skripti.
+
+🧩 Implementacija (Python 3.10+)
+Zajedničke pomoćne funkcije (scp2_common.py)
+import struct, json, hmac, hashlib, base64, time
+
+VERSION = 2
+
+# Header: !BBHI  -> Version(1B), Type(1B), TokenLen(2B), PayloadLen(4B) = 8 bajtova
+HDR_FMT = "!BBHI"
+HDR_SIZE = struct.calcsize(HDR_FMT)
+
+def b64url(b: bytes) -> str:
+    return base64.urlsafe_b64encode(b).rstrip(b"=").decode("ascii")
+
+def read_exact(sock, n: int) -> bytes:
+    buf = b""
+    while len(buf) < n:
+        chunk = sock.recv(n - len(buf))
+        if not chunk:
+            raise ConnectionError("socket closed")
+        buf += chunk
+    return buf
+
+def send_frame(sock, mtype: int, token: bytes, payload: bytes):
+    token = token or b""
+    header = struct.pack(HDR_FMT, VERSION, mtype, len(token), len(payload))
+    sock.sendall(header + token + payload)
+
+def recv_frame(sock):
+    header = read_exact(sock, HDR_SIZE)
+    ver, mtype, tlen, plen = struct.unpack(HDR_FMT, header)
+    if ver != VERSION:
+        raise ValueError(f"Bad version: {ver}")
+    token = read_exact(sock, tlen) if tlen else b""
+    payload = read_exact(sock, plen) if plen else b""
+    return mtype, token, payload
+
+def now() -> int:
+    return int(time.time())
+
+def make_token(secret: bytes, username: str, ttl_sec: int = 600) -> tuple[str,int]:
+    exp = now() + ttl_sec
+    msg = f"{username}|{exp}|".encode("utf-8") + hashlib.sha256(str(time.time_ns()).encode()).digest()
+    sig = hmac.new(secret, msg, hashlib.sha256).digest()
+    tok = b64url(msg + sig)
+    return tok, exp
+
+def verify_token(secret: bytes, token: str, username: str) -> bool:
+    try:
+        # pad base64
+        pad = "=" * (-len(token) % 4)
+        raw = base64.urlsafe_b64decode(token + pad)
+        msg, sig = raw[:-32], raw[-32:]
+        exp_str = msg.split(b"|")[1].decode()
+        exp = int(exp_str)
+        if exp < now():
+            return False
+        calc = hmac.new(secret, msg, hashlib.sha256).digest()
+        return hmac.compare_digest(sig, calc) and msg.decode(errors="ignore").startswith(username + "|")
+    except Exception:
+        return False
+
+Server (scp2_server.py)
+import ssl, socket, json, threading
+from scp2_common import send_frame, recv_frame, make_token, verify_token, now
+
+HOST, PORT = "0.0.0.0", 5443
+SERVER_SECRET = b"super-secret-change-me"
+
+# Demo "baza" korisnika (plaintext radi jednostavnosti demoa!)
+USERS = {
+    "ana": "lozinka123",
+    "marko": "tajna",
+}
+
+TYPE = {
+    "AUTH_REQ":1, "AUTH_OK":2, "AUTH_FAIL":3, "MSG":4, "PING":5, "PONG":6, "BYE":7, "ERROR":8
+}
+
+def handle_client(conn, addr):
+    print(f"[+] TLS klijent: {addr}")
+    authed_user = None
+    token_cache = None
+
+    try:
+        while True:
+            mtype, token, payload = recv_frame(conn)
+
+            if mtype == TYPE["AUTH_REQ"]:
+                data = json.loads(payload.decode("utf-8"))
+                u, p = data.get("username"), data.get("password")
+                if u in USERS and USERS[u] == p:
+                    tok, exp = make_token(SERVER_SECRET, u, ttl_sec=600)
+                    token_cache = tok
+                    authed_user = u
+                    send_frame(conn, TYPE["AUTH_OK"], b"", json.dumps({"token": tok, "exp": exp}).encode())
+                else:
+                    send_frame(conn, TYPE["AUTH_FAIL"], b"", json.dumps({"error":"Bad credentials"}).encode())
+
+            elif mtype in (TYPE["MSG"], TYPE["PING"], TYPE["PONG"]):
+                if not authed_user or not token:
+                    send_frame(conn, TYPE["ERROR"], b"", json.dumps({"error":"Auth required"}).encode())
+                    continue
+                tok_str = token.decode("ascii")
+                if not verify_token(SERVER_SECRET, tok_str, authed_user):
+                    send_frame(conn, TYPE["ERROR"], b"", json.dumps({"error":"Invalid/expired token"}).encode())
+                    continue
+
+                if mtype == TYPE["PING"]:
+                    send_frame(conn, TYPE["PONG"], token, b"")
+                elif mtype == TYPE["MSG"]:
+                    txt = payload.decode("utf-8", errors="replace")
+                    print(f"[{authed_user}] {txt}")
+                    send_frame(conn, TYPE["MSG"], token, f"Eho: {txt}".encode("utf-8"))
+
+            elif mtype == TYPE["BYE"]:
+                break
+
+            else:
+                send_frame(conn, TYPE["ERROR"], b"", json.dumps({"error":"Unknown type"}).encode())
+
+    except Exception as e:
+        print("[-] Greška:", e)
+    finally:
+        conn.close()
+        print(f"[x] Zatvoreno: {addr}")
+
+def main():
+    # TLS kontekst (server)
+    ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+    ctx.minimum_version = ssl.TLSVersion.TLSv1_3
+    ctx.load_cert_chain(certfile="cert.pem", keyfile="key.pem")
+
+    with socket.create_server((HOST, PORT), reuse_port=True) as s:
+        with ctx.wrap_socket(s, server_side=True) as tls_srv:
+            print(f"[i] SCP/2 server na tls://{HOST}:{PORT}")
+            while True:
+                conn, addr = tls_srv.accept()
+                threading.Thread(target=handle_client, args=(conn, addr), daemon=True).start()
+
+if __name__ == "__main__":
+    main()
+
+Klijent (scp2_client.py)
+import ssl, socket, json
+from scp2_common import send_frame, recv_frame
+
+HOST, PORT = "localhost", 5443
+
+TYPE = {
+    "AUTH_REQ":1, "AUTH_OK":2, "AUTH_FAIL":3, "MSG":4, "PING":5, "PONG":6, "BYE":7, "ERROR":8
+}
+
+def main():
+    # TLS kontekst (klijent)
+    ctx = ssl.create_default_context(ssl.Purpose.SERVER_AUTH)
+    # DEMO: prihvati samopotpisani sertifikat bez provere hostname-a (za produkciju – validan CA!)
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    # Ako želiš proveru, umesto CERT_NONE uradi:
+    # ctx.load_verify_locations(cafile="cert.pem")
+    # ctx.verify_mode = ssl.CERT_REQUIRED
+    # ctx.check_hostname = False
+
+    with socket.create_connection((HOST, PORT)) as raw:
+        with ctx.wrap_socket(raw, server_hostname=HOST) as sock:
+            print("[i] TLS veza uspostavljena")
+
+            # 1) AUTH_REQ
+            creds = {"username":"ana", "password":"lozinka123"}
+            send_frame(sock, TYPE["AUTH_REQ"], b"", json.dumps(creds).encode())
+
+            mtype, token, payload = recv_frame(sock)
+            if mtype != TYPE["AUTH_OK"]:
+                print("Autentikacija neuspešna:", payload.decode())
+                return
+            data = json.loads(payload.decode())
+            token_str = data["token"].encode("ascii")
+            print("[i] Dobijen token.")
+
+            # 2) Chat
+            while True:
+                txt = input("Ti: ")
+                send_frame(sock, TYPE["MSG"], token_str, txt.encode("utf-8"))
+                mtype, _, payload = recv_frame(sock)
+                if mtype == TYPE["ERROR"]:
+                    print("Greška:", payload.decode())
+                elif mtype == TYPE["MSG"]:
+                    print("Server:", payload.decode())
+                if txt.lower() == "bye":
+                    send_frame(sock, TYPE["BYE"], token_str, b"")
+                    break
+
+if __name__ == "__main__":
+    main()
+
+Kako pokrenuti (lokalno)
+
+Napravi sertifikate (jednom):
+
+openssl req -x509 -newkey rsa:2048 -keyout key.pem -out cert.pem -days 365 -nodes -subj "/CN=localhost"
+
+
+Sačuvaj tri fajla u isti folder: scp2_common.py, scp2_server.py, scp2_client.py.
+
+Pokreni server:
+
+python scp2_server.py
+
+
+U drugom terminalu pokreni klijenta:
+
+python scp2_client.py
+
+
+Upiši poruke; server vraća “Eho: …”. Za izlaz pošalji bye.
+
+Ideje za dalja unapređenja
+
+Mutual TLS (mTLS) – klijent takođe ima sertifikat; server traži i verifikuje.
+
+Argon2/BCrypt i baza (SQL/NoSQL) za lozinke i korisnike.
+
+Obnova tokena (REFRESH) i rotacija tajne.
+
+Rate-limit i replay protection (nonce + server memorija kratkog roka).
+
+Protobuf/CBOR umesto JSON-a za kompaktnost.
+
+Višekorisničke sobe sa broadcast-om i listom članova (novi tipi poruka).
+
 ## Important documentation links:
 ### You can not start without reading this documents.
 0. https://github.com/antistereotip/ghost

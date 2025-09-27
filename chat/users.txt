@@ -1,4 +1,1 @@
-admin|$2y$10$dPJhxA.JXrpT5fU2u78fjOh0ibndpZ2VscE5dc6X6SFAoafWaeGb.
-master|$2y$10$PwyYeNICrapg/OixZSnJPOogfqaznDJYLnQCfyDmk7bOU0wqWZCwC
-srele|$2y$10$oSZUlGwYBnloV6cmujCVae/toFYipW7spCvXHYELdSLyr1.XX.Mk2
-hightech|$2y$10$d1H9OfU51RdUtqZaoLfqX.be7z3fBBrrc18ZXA8F6GK7PK/rJcTiO
+

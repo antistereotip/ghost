@@ -218,10 +218,6 @@ Kako se odgovara na zahteve.
 
 Izaberi transport (TCP ili UDP).
 
-Napiši kod koji šalje i prima poruke po definisanom formatu.
-
-Testiraj na dve mašine ili u virtuelnoj mreži.
-
 Primer mini protokola preko TCP-a u Python-u (aplikativni sloj):
 
 # server.py
@@ -263,20 +259,14 @@ Primerima.
 
 7️⃣ Standardizacija (opciono)
 
-Ako želiš da protokol postane javni standard:
+Da protokol postane javni standard:
 
 Predlaže se IETF-u ili drugom telu.
 
 Dobija svoj RFC broj.
 
-Ako želiš, mogu ti napraviti primer potpuno novog internet protokola sa izmišljenim pravilima i formatom, i pokazati kako bi radio u praksi.
-To bi bio baš realističan mini-RFC.
 
-Кажеш:
-moze
-ChatGPT је рекао:
-
-Evo ti primer od nule kako bih napravio jedan izmišljeni internet protokol — pokazaću ti ga kao pravi mini-RFC, sa formatom poruka, pravilima komunikacije i kodom.
+Primer od nule kako bih napravio jedan izmišljeni internet protokol — pravi mini-RFC, sa formatom poruka, pravilima komunikacije i kodom.
 
 📜 RFC-DRAFT: SimpleChat Protocol (SCP)
 1️⃣ Opis
@@ -407,15 +397,7 @@ Nedostatak: Nema enkripciju, nema autentikaciju.
 
 Moguće proširenje: Dodavanje enkripcije (TLS) ili više tipova poruka.
 
-Ako hoćeš, mogu ti napraviti napredniju verziju ovog protokola koja ima autentikaciju i enkripciju poput HTTPS-a, ali jednostavnije.
-To bi već bilo ozbiljnije, ali i dalje ručno razumljivo.
-
-Кажеш:
-moze
-ChatGPT је рекао:
-Размишљао сам 27s
-
-Super — idemo na napredniju varijantu sa TLS enkripcijom i token autentikacijom. Dobićeš mini-RFC i radan primer klijent/server koda u Pythonu.
+Super — Naprednija varijanta sa TLS enkripcijom i token autentikacijom. mini-RFC i radan primer klijent/server koda u Pythonu.
 
 📜 RFC-DRAFT: Secure SimpleChat Protocol (SCP/2)
 1) Cilj

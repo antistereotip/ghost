@@ -1,10 +1,17 @@
-## RIP Danilo Bogdanov.
+## RIP Danilo Bogdanov
+
 https://usk.rs/lightfidelity-lifi.com/matematika.html
-### Ghost Protocol. First invisible protocol in history of network.
+
+### Ghost Protocol. First invisible protocol in history of network
+
 https://usk.rs/btc/
+
 https://deepwiki.com/antistereotip/ghost
+
 ### Ng1np. Legal Open Source Array Engine.
+
 https://usk.rs/ng1np/ 
+
 #### Coding name: Ghost 1337 :: Login or Die :: Antistereotip :: Operation Apostols
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /><br />

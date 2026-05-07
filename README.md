@@ -4,7 +4,7 @@ https://usk.rs/lightfidelity-lifi.com/matematika.html
 
 ### Ghost Protocol. First invisible protocol in history of network
 
-https://usk.rs/btc/
+https://usk.rs/ghost/
 
 https://deepwiki.com/antistereotip/ghost
 
